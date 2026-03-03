@@ -1,0 +1,60 @@
+series:
+  - title: "Villains Are Destined to Die"
+    type: manga
+    format: paperback
+    author: "SUOL (Artist), David Odell (Translator)"
+    publisher: yen_press
+    series_url: "https://yenpress.com/series/villains-are-destined-to-die"
+  - title: "Why Raeliana Ended Up at the Duke's Mansion"
+    type: manga
+    format: paperback
+    author: "Whale (Artist), David Odell (Translator)"
+    publisher: yen_press
+    series_url: "https://yenpress.com/series/why-raeliana-ended-up-at-the-duke-s-mansion"
+  - title: "7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!"
+    type: manga
+    format: paperback
+    author: "Touko Amekawa, Hinoki Kino (Illustrator), Wan Hachipisu (Contribution by)"
+    publisher: seven_seas_entertainment
+    series_url: "https://sevenseasentertainment.com/series/7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy-manga"
+  - title: "The Apothecary Diaries"
+    type: manga
+    format: paperback
+    author: "Natsu Hyuuga, Nekokurage, Itsuki Nanao (Compiler), Touco Shino (Designed by)"
+    publisher: square_enix
+    series_url: "https://squareenixmangaandbooks.square-enix-games.com/en-us/series/the-apothecary-diaries"
+  - title: "Magic Artisan Dahlia Wilts No More"
+    type: manga
+    format: paperback
+    author: "Hisaya Amagishi, Megumi Sumikawa (Illustrator), KEI (Contribution by)"
+    publisher: seven_seas_entertainment
+    series_url: "https://sevenseasentertainment.com/series/magic-artisan-dahlia-wilts-no-more-manga"
+  - title: "Pass the Monster Meat, Milady!"
+    type: manga
+    format: paperback
+    author: "Chika Mizube, Kanata Hoshi (Created by), Peperon (Designed by)"
+    publisher: kodansha_international
+    series_url: "https://kodansha.us/series/pass-the-monster-meat-milady"
+  - title: "Yakuza Fiancé: Raise wa Tanin ga Ii"
+    type: manga
+    format: paperback
+    author: "Asuka Konishi"
+    publisher: seven_seas_entertainment
+    series_url: "https://sevenseasentertainment.com/series/yakuza-fiance-raise-wa-tanin-ga-ii"
+  - title: "You Can't Bluff the Sharp-Eyed Sister"
+    type: manga
+    format: paperback
+    author: "Yo Asami, Natsu Hyuuga (Created by), Chiho Shinishi (Designed by)"
+    publisher: kodansha_international
+    series_url: "https://kodansha.us/series/you-cant-bluff-the-sharp-eyed-sister"
+  - title: "Kill the Villainess"
+    type: manga
+    format: paperback
+    author: "Haegi (Artist)"
+    publisher: yen_press
+    series_url: "https://yenpress.com/series/kill-the-villainess"
+sources:
+  yen_press: "https://yenpress.com/calendar"
+  seven_seas_entertainment: "https://sevenseasentertainment.com/release-dates/"
+  square_enix: "https://squareenixmangaandbooks.square-enix-games.com/en-us/release-calendar"
+  kodansha_international: "https://kodansha.us/calendar/"
