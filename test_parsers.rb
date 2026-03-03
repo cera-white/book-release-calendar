@@ -2,6 +2,7 @@
 require 'yaml'
 require_relative './lib/parsers/yen_press_parser'
 require_relative './lib/parsers/seven_seas_parser'
+require_relative './lib/parsers/square_enix_parser'
 
 file_path = 'config.yaml'
 config_data = YAML.safe_load_file(file_path)
@@ -13,9 +14,16 @@ config_data = YAML.safe_load_file(file_path)
 # puts YenPressParser.new(yen_press_example).parse.to_json
 # puts "----------------------------------------------------"
 
-puts "--------Seven Seas Example:--------"
-seven_seas_example = config_data['series'][2]
-puts seven_seas_example
+# puts "--------Seven Seas Example:--------"
+# seven_seas_example = config_data['series'][2]
+# puts seven_seas_example
+# puts "--------Output:--------"
+# puts SevenSeasParser.new(seven_seas_example).parse.to_json
+# puts "----------------------------------------------------"
+
+puts "--------Square Enix Example:--------"
+square_enix_example = config_data['series'][3]
+puts square_enix_example
 puts "--------Output:--------"
-puts SevenSeasParser.new(seven_seas_example).parse
+puts SquareEnixParser.new(square_enix_example).parse.to_json
 puts "----------------------------------------------------"

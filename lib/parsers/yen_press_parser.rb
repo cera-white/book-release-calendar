@@ -4,11 +4,6 @@ require "date"
 require_relative './html_parser'
 
 class YenPressParser < HtmlParser
-  def initialize(series)
-    @series = series
-    @uri = URI(series['series_url'])
-  end
-
   def parse
     series_doc = super
     volumes = extract_volume_links(series_doc)

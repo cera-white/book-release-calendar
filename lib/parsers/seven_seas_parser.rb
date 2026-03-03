@@ -4,11 +4,6 @@ require "date"
 require_relative './html_parser'
 
 class SevenSeasParser < HtmlParser
-  def initialize(series)
-    @series = series
-    @uri = URI(series["series_url"])
-  end
-
   def parse
     doc = super
     volumes = extract_volumes(doc)

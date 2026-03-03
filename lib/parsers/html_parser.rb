@@ -3,8 +3,9 @@ require "uri"
 require "nokogiri"
 
 class HtmlParser
-  def initialize(url)
-    @uri = URI(url)
+  def initialize(series)
+    @series = series
+    @uri = URI(series["series_url"])
   end
 
   def fetch_doc(uri = @uri)
