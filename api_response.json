@@ -1,0 +1,761 @@
+[
+    {
+        "chapters": [
+            {
+                "variants": [
+                    {
+                        "priceType": "Free",
+                        "usesDefaultProductImage": false,
+                        "id": -1,
+                        "type": "Digital",
+                        "description": "Digital",
+                        "currency": "USD",
+                        "isOnSale": false,
+                        "isPreOrder": false,
+                        "isComingSoon": false,
+                        "thumbnails": [
+                            {
+                                "width": 1024,
+                                "height": 1527,
+                                "fileSize": 13800,
+                                "url": "https://cdn.kodansha.us/statics/kodansha_placeholder_1024.png",
+                                "color": "blue"
+                            }
+                        ]
+                    }
+                ],
+                "readable": {
+                    "seriesReadableUrl": "pass-the-monster-meat-milady",
+                    "genres": [
+                        {
+                            "id": 2,
+                            "name": "Romance"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Fantasy"
+                        },
+                        {
+                            "id": 9,
+                            "name": "Comedy"
+                        }
+                    ],
+                    "seriesId": "765",
+                    "pageCount": 60,
+                    "copyright": "",
+                    "coverType": "Paperback",
+                    "colorType": "FullColor",
+                    "releaseDate": "0001-01-01T00:00:00"
+                },
+                "chapterNumber": 1,
+                "downloadable": {
+                    "reverseReadOrder": true,
+                    "supportsBookMode": true,
+                    "supportsScrollMode": true
+                },
+                "relativeName": "Chapter 1",
+                "volumeRelativeName": "Volume 1",
+                "publishDate": "2023-11-01T20:05:26",
+                "id": 31983,
+                "name": "Pass the Monster Meat, Milady!, Volume 1, Chapter 1",
+                "description": "",
+                "categoryId": 0,
+                "category": "Publication",
+                "subCategoryId": 0,
+                "subCategory": "Chapter",
+                "parentSubCategory": "Volume",
+                "thumbnails": [
+                    {
+                        "width": 1440,
+                        "height": 2051,
+                        "fileSize": 289250,
+                        "url": "https://cdn.kodansha.us/statics/Publications/31943/Pages/page-0001.jpg"
+                    }
+                ],
+                "volumeNumber": 1
+            }
+        ],
+        "variants": [
+            {
+                "priceType": "Paid",
+                "usesDefaultProductImage": false,
+                "id": -1,
+                "type": "Digital",
+                "description": "Digital",
+                "price": 3.9900,
+                "currency": "USD",
+                "isOnSale": false,
+                "isPreOrder": false,
+                "isComingSoon": false,
+                "fullPrice": 3.9900,
+                "thumbnails": [
+                    {
+                        "width": 1024,
+                        "height": 1527,
+                        "fileSize": 13800,
+                        "url": "https://cdn.kodansha.us/statics/kodansha_placeholder_1024.png",
+                        "color": "blue"
+                    }
+                ]
+            }
+        ],
+        "publishDate": "2023-12-12T08:00:02",
+        "readable": {
+            "seriesReadableUrl": "pass-the-monster-meat-milady",
+            "digitalReleaseDate": "2023-12-12T00:00:00",
+            "genres": [
+                {
+                    "id": 2,
+                    "name": "Romance"
+                },
+                {
+                    "id": 4,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 9,
+                    "name": "Comedy"
+                }
+            ],
+            "seriesId": "765",
+            "isbn": "9798888770900",
+            "eisbn": "9798889333586",
+            "pageCount": 210,
+            "copyright": "Pass the Monster Meat, Milady! © Kanata Hoshi, Chika Mizube, Peperon/Kodansha Ltd.",
+            "coverType": "Paperback",
+            "colorType": "FullColor",
+            "releaseDate": "2023-12-12T00:00:00"
+        },
+        "relativeName": "Volume 1",
+        "downloadable": {
+            "reverseReadOrder": true,
+            "supportsBookMode": true,
+            "supportsScrollMode": true
+        },
+        "id": 31943,
+        "name": "Pass the Monster Meat, Milady!, Volume 1",
+        "description": "Like any proper noble lady, one must have certain acquired tastes. For Melphiera Marchalrayd, she just happens to crave a rather exotic protein—monsters! But do not judge! Despite its bad reputation, monster meat can be used in exquisite cuisine, and Melphiera is determined to change the kingdom’s opinion of it! Unfortunately, since debuting in society, Melphiera has been struggling to find her perfect match…until she meets the fearless “Blood-Mad Duke” of Galbraith!",
+        "categoryId": 0,
+        "category": "Publication",
+        "subCategoryId": 0,
+        "subCategory": "Volume",
+        "thumbnails": [
+            {
+                "width": 1440,
+                "height": 2051,
+                "fileSize": 289250,
+                "url": "https://cdn.kodansha.us/statics/Publications/31943/Pages/page-0001.jpg"
+            }
+        ],
+        "volumeNumber": 1,
+        "readableUrl": "pass-the-monster-meat-milady-1"
+    },
+    {
+        "variants": [
+            {
+                "priceType": "Paid",
+                "usesDefaultProductImage": false,
+                "id": -1,
+                "type": "Digital",
+                "description": "Digital",
+                "price": 7.9900,
+                "currency": "USD",
+                "isOnSale": false,
+                "isPreOrder": false,
+                "isComingSoon": false,
+                "fullPrice": 7.9900,
+                "thumbnails": [
+                    {
+                        "width": 1024,
+                        "height": 1527,
+                        "fileSize": 13800,
+                        "url": "https://cdn.kodansha.us/statics/kodansha_placeholder_1024.png",
+                        "color": "blue"
+                    }
+                ]
+            }
+        ],
+        "readable": {
+            "seriesReadableUrl": "pass-the-monster-meat-milady",
+            "digitalReleaseDate": "2024-02-13T00:00:00",
+            "genres": [
+                {
+                    "id": 2,
+                    "name": "Romance"
+                },
+                {
+                    "id": 4,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 9,
+                    "name": "Comedy"
+                }
+            ],
+            "seriesId": "765",
+            "isbn": "9798888770917",
+            "eisbn": "9798889335085",
+            "pageCount": 178,
+            "copyright": "Pass the Monster Meat, Milady! © Kanata Hoshi, Chika Mizube, Peperon/Kodansha Ltd.",
+            "coverType": "Paperback",
+            "colorType": "FullColor",
+            "releaseDate": "2024-02-13T00:00:00"
+        },
+        "downloadable": {
+            "reverseReadOrder": true,
+            "supportsBookMode": true,
+            "supportsScrollMode": true
+        },
+        "relativeName": "Volume 2",
+        "publishDate": "2024-02-13T08:00:02",
+        "id": 32091,
+        "name": "Pass the Monster Meat, Milady!, Volume 2",
+        "description": "Melphiera Marchalrayd is misunderstood by the peerage and is called the “Voracious Villainess” for taking delight in monster meat. Likewise, Aristide is known as the “Blood-Mad Duke” for his fierce hunting skills. After a monstrous rendezvous, Aristide has fallen in love at first sight with the fearless Melphiera and has asked for her hand in marriage. Of course, one must not forget to bestow proper gifts in a noble courtship, so Aristide has arrived with a rare golden-fleeced royal moodle in tow! But what exactly goes into butchering this fine monster…? And will Aristide truly proceed with the engagement?",
+        "categoryId": 0,
+        "category": "Publication",
+        "subCategoryId": 0,
+        "subCategory": "Volume",
+        "thumbnails": [
+            {
+                "width": 1440,
+                "height": 2051,
+                "fileSize": 293087,
+                "url": "https://cdn.kodansha.us/statics/Publications/32091/Pages/page-0001.jpg"
+            }
+        ],
+        "volumeNumber": 2,
+        "readableUrl": "pass-the-monster-meat-milady-2"
+    },
+    {
+        "variants": [
+            {
+                "priceType": "Paid",
+                "usesDefaultProductImage": false,
+                "id": -1,
+                "type": "Digital",
+                "description": "Digital",
+                "price": 7.9900,
+                "currency": "USD",
+                "isOnSale": false,
+                "isPreOrder": false,
+                "isComingSoon": false,
+                "fullPrice": 7.9900,
+                "thumbnails": [
+                    {
+                        "width": 1024,
+                        "height": 1527,
+                        "fileSize": 13800,
+                        "url": "https://cdn.kodansha.us/statics/kodansha_placeholder_1024.png",
+                        "color": "blue"
+                    }
+                ]
+            }
+        ],
+        "readable": {
+            "seriesReadableUrl": "pass-the-monster-meat-milady",
+            "digitalReleaseDate": "2024-04-09T00:00:00",
+            "genres": [
+                {
+                    "id": 2,
+                    "name": "Romance"
+                },
+                {
+                    "id": 4,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 9,
+                    "name": "Comedy"
+                }
+            ],
+            "seriesId": "765",
+            "isbn": "9798888770924",
+            "eisbn": "9798889335535",
+            "pageCount": 178,
+            "copyright": "Pass the Monster Meat, Milady! © Kanata Hoshi, Chika Mizube, Peperon/Kodansha Ltd.",
+            "coverType": "Paperback",
+            "colorType": "FullColor",
+            "releaseDate": "2024-04-09T00:00:00"
+        },
+        "downloadable": {
+            "reverseReadOrder": true,
+            "supportsBookMode": true,
+            "supportsScrollMode": true
+        },
+        "relativeName": "Volume 3",
+        "publishDate": "2024-04-09T07:00:02",
+        "id": 32241,
+        "name": "Pass the Monster Meat, Milady!, Volume 3",
+        "description": "After agreeing to Aristide’s proposal, Melphiera is whisked off to Galbraith before winter settles in Marchalrayd. But first, a brief overnight detour to Fort Ritterd. Melphiera is excited about the opportunity to supplement the knights’ porridge with a healthy dose of protein—from monsters, of course! Will she win over the hearts of the knights of Galbraith with her unusual cuisine? And will Aristide be able to keep himself from erupting with jealousy? Moreover, there’s something troubling about the Duke…and there seems to be a connection to Melphiera’s late mother?!",
+        "categoryId": 0,
+        "category": "Publication",
+        "subCategoryId": 0,
+        "subCategory": "Volume",
+        "thumbnails": [
+            {
+                "width": 1440,
+                "height": 2051,
+                "fileSize": 303694,
+                "url": "https://cdn.kodansha.us/statics/Publications/32241/Pages/page-0001.jpg"
+            }
+        ],
+        "volumeNumber": 3,
+        "readableUrl": "pass-the-monster-meat-milady-3"
+    },
+    {
+        "variants": [
+            {
+                "priceType": "Paid",
+                "usesDefaultProductImage": false,
+                "id": -1,
+                "type": "Digital",
+                "description": "Digital",
+                "price": 7.9900,
+                "currency": "USD",
+                "isOnSale": false,
+                "isPreOrder": false,
+                "isComingSoon": false,
+                "fullPrice": 7.9900,
+                "thumbnails": [
+                    {
+                        "width": 1024,
+                        "height": 1527,
+                        "fileSize": 13800,
+                        "url": "https://cdn.kodansha.us/statics/kodansha_placeholder_1024.png",
+                        "color": "blue"
+                    }
+                ]
+            }
+        ],
+        "readable": {
+            "seriesReadableUrl": "pass-the-monster-meat-milady",
+            "digitalReleaseDate": "2024-06-18T00:00:00",
+            "genres": [
+                {
+                    "id": 2,
+                    "name": "Romance"
+                },
+                {
+                    "id": 4,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 9,
+                    "name": "Comedy"
+                }
+            ],
+            "seriesId": "765",
+            "isbn": "9798888770931",
+            "eisbn": "9798889336723",
+            "pageCount": 178,
+            "copyright": "Pass the Monster Meat, Milady! © Kanata Hoshi, Chika Mizube, Peperon/Kodansha Ltd.",
+            "coverType": "Paperback",
+            "colorType": "FullColor",
+            "releaseDate": "2024-06-18T00:00:00"
+        },
+        "downloadable": {
+            "reverseReadOrder": true,
+            "supportsBookMode": true,
+            "supportsScrollMode": true
+        },
+        "relativeName": "Volume 4",
+        "publishDate": "2024-06-18T07:00:22",
+        "id": 32418,
+        "name": "Pass the Monster Meat, Milady!, Volume 4",
+        "description": "Realizing that Aristide deals with overflowing magic like her late mother, Melphiera is determined to figure out a way to prevent him from going blood mad. Moreover, Galbraith has been overflowing with monsters since the Calamity, which means Aristide and his knights are integral for the peace of the kingdom. Melphiera realizes more and more that their engagement is absolutely necessary…but maybe learning how to eat even blood-mad monsters wouldn’t be too bad!",
+        "categoryId": 0,
+        "category": "Publication",
+        "subCategoryId": 0,
+        "subCategory": "Volume",
+        "thumbnails": [
+            {
+                "width": 1440,
+                "height": 2051,
+                "fileSize": 303234,
+                "url": "https://cdn.kodansha.us/statics/Publications/32418/Pages/page-0001.jpg"
+            }
+        ],
+        "volumeNumber": 4,
+        "readableUrl": "pass-the-monster-meat-milady-4"
+    },
+    {
+        "variants": [
+            {
+                "priceType": "Paid",
+                "usesDefaultProductImage": false,
+                "id": -1,
+                "type": "Digital",
+                "description": "Digital",
+                "price": 7.9900,
+                "currency": "USD",
+                "isOnSale": false,
+                "isPreOrder": false,
+                "isComingSoon": false,
+                "fullPrice": 7.9900,
+                "thumbnails": [
+                    {
+                        "width": 1024,
+                        "height": 1527,
+                        "fileSize": 13800,
+                        "url": "https://cdn.kodansha.us/statics/kodansha_placeholder_1024.png",
+                        "color": "blue"
+                    }
+                ]
+            }
+        ],
+        "readable": {
+            "seriesReadableUrl": "pass-the-monster-meat-milady",
+            "digitalReleaseDate": "2024-08-13T00:00:00",
+            "genres": [
+                {
+                    "id": 2,
+                    "name": "Romance"
+                },
+                {
+                    "id": 4,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 9,
+                    "name": "Comedy"
+                }
+            ],
+            "seriesId": "765",
+            "isbn": "9798888772577",
+            "eisbn": "9798894780283",
+            "pageCount": 178,
+            "copyright": "Pass the Monster Meat, Milady! © Kanata Hoshi, Chika Mizube, Peperon/Kodansha Ltd.",
+            "coverType": "Paperback",
+            "colorType": "FullColor",
+            "releaseDate": "2024-08-13T00:00:00"
+        },
+        "downloadable": {
+            "reverseReadOrder": true,
+            "supportsBookMode": true,
+            "supportsScrollMode": true
+        },
+        "relativeName": "Volume 5",
+        "publishDate": "2024-08-13T07:00:13",
+        "id": 32530,
+        "name": "Pass the Monster Meat, Milady!, Volume 5",
+        "description": "After a frightful flight that involved an onslaught from a flock of Berguinon, Melphiera and Aristide finally arrive in Middlaeg, a fortress city that is the home to the Duke of Galbraith. Unfortunately, Melphiera is shocked by her bedraggled appearance and Aristide arranges for the Blanche Corps—a unit of lady knights—to assist her. Will Melphiera receive approval in this new land?",
+        "categoryId": 0,
+        "category": "Publication",
+        "subCategoryId": 0,
+        "subCategory": "Volume",
+        "thumbnails": [
+            {
+                "width": 1723,
+                "height": 2457,
+                "fileSize": 0,
+                "url": "https://cdn.kodansha.us/statics/Products/32530_85679b93-bc20-4692-a325-868ddb59ac31.jpg"
+            }
+        ],
+        "volumeNumber": 5,
+        "readableUrl": "pass-the-monster-meat-milady-5"
+    },
+    {
+        "variants": [
+            {
+                "priceType": "Paid",
+                "usesDefaultProductImage": false,
+                "id": -1,
+                "type": "Digital",
+                "description": "Digital",
+                "price": 7.9900,
+                "currency": "USD",
+                "isOnSale": false,
+                "isPreOrder": false,
+                "isComingSoon": false,
+                "fullPrice": 7.9900,
+                "thumbnails": [
+                    {
+                        "width": 1024,
+                        "height": 1527,
+                        "fileSize": 13800,
+                        "url": "https://cdn.kodansha.us/statics/kodansha_placeholder_1024.png",
+                        "color": "blue"
+                    }
+                ]
+            }
+        ],
+        "readable": {
+            "seriesReadableUrl": "pass-the-monster-meat-milady",
+            "digitalReleaseDate": "2024-10-15T00:00:00",
+            "genres": [
+                {
+                    "id": 2,
+                    "name": "Romance"
+                },
+                {
+                    "id": 4,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 9,
+                    "name": "Comedy"
+                }
+            ],
+            "seriesId": "765",
+            "isbn": "9798888773222",
+            "eisbn": "9798894781396",
+            "pageCount": 178,
+            "copyright": "Pass the Monster Meat, Milady! © Kanata Hoshi, Chika Mizube, Peperon/Kodansha Ltd.",
+            "coverType": "Paperback",
+            "colorType": "FullColor",
+            "releaseDate": "2024-10-15T00:00:00"
+        },
+        "downloadable": {
+            "reverseReadOrder": true,
+            "supportsBookMode": true,
+            "supportsScrollMode": true
+        },
+        "relativeName": "Volume 6",
+        "publishDate": "2024-10-15T07:00:58",
+        "id": 32671,
+        "name": "Pass the Monster Meat, Milady!, Volume 6",
+        "description": "In her formal debut at Galbraith, Melphiera must give a dinner speech to everyone in Middlaeg Fortress, only to find that banquets in Galbraith are like nothing she imagined! What impression will the gourmet princess make on Aristide’s men? Things get worse when the feast is interrupted by an intimidating figure who gives Melphiera a test: are there some monsters that even she can’t eat…or drink? And when the table is cleared, Aristide and Melphiera must welcome a new guest to the castle…a pet monster!",
+        "categoryId": 0,
+        "category": "Publication",
+        "subCategoryId": 0,
+        "subCategory": "Volume",
+        "thumbnails": [
+            {
+                "width": 1725,
+                "height": 2457,
+                "fileSize": 0,
+                "url": "https://cdn.kodansha.us/statics/Products/32671_b21abe80-8e25-49bb-92ef-be0b500fd8b2.jpg"
+            }
+        ],
+        "volumeNumber": 6,
+        "readableUrl": "pass-the-monster-meat-milady-6"
+    },
+    {
+        "variants": [
+            {
+                "priceType": "Paid",
+                "usesDefaultProductImage": false,
+                "id": -1,
+                "type": "Digital",
+                "description": "Digital",
+                "price": 7.9900,
+                "currency": "USD",
+                "isOnSale": false,
+                "isPreOrder": false,
+                "isComingSoon": false,
+                "fullPrice": 7.9900,
+                "thumbnails": [
+                    {
+                        "width": 1024,
+                        "height": 1527,
+                        "fileSize": 13800,
+                        "url": "https://cdn.kodansha.us/statics/kodansha_placeholder_1024.png",
+                        "color": "blue"
+                    }
+                ]
+            }
+        ],
+        "readable": {
+            "seriesReadableUrl": "pass-the-monster-meat-milady",
+            "digitalReleaseDate": "2025-02-11T00:00:00",
+            "genres": [
+                {
+                    "id": 2,
+                    "name": "Romance"
+                },
+                {
+                    "id": 4,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 9,
+                    "name": "Comedy"
+                }
+            ],
+            "seriesId": "765",
+            "isbn": "9798888773239",
+            "eisbn": "9798894784090",
+            "pageCount": 178,
+            "copyright": "Pass the Monster Meat, Milady! © Kanata Hoshi, Chika Mizube, Peperon/Kodansha Ltd.",
+            "coverType": "Paperback",
+            "colorType": "FullColor",
+            "releaseDate": "2025-02-11T00:00:00"
+        },
+        "downloadable": {
+            "reverseReadOrder": true,
+            "supportsBookMode": true,
+            "supportsScrollMode": true
+        },
+        "relativeName": "Volume 7",
+        "publishDate": "2025-02-11T08:00:32",
+        "id": 32900,
+        "name": "Pass the Monster Meat, Milady!, Volume 7",
+        "description": "Middlaeg Fortress is under attack! As a swarm of berserk Berguignons approach, the knights of Galbraith defend the castle, only to find that the birds are not the only monsters in the sky. Now, the fate of Middlaeg depends on Aristide and Blanche’s swordplay…or does Melphiera’s laboratory actually contain an even more powerful secret weapon?  ",
+        "categoryId": 0,
+        "category": "Publication",
+        "subCategoryId": 0,
+        "subCategory": "Volume",
+        "thumbnails": [
+            {
+                "width": 1440,
+                "height": 2051,
+                "fileSize": 231521,
+                "url": "https://cdn.kodansha.us/statics/Publications/32900/Pages/page-0001.jpg"
+            }
+        ],
+        "volumeNumber": 7,
+        "readableUrl": "pass-the-monster-meat-milady-7"
+    },
+    {
+        "variants": [
+            {
+                "priceType": "Paid",
+                "usesDefaultProductImage": false,
+                "id": -1,
+                "type": "Digital",
+                "description": "Digital",
+                "price": 7.9900,
+                "currency": "USD",
+                "isOnSale": false,
+                "isPreOrder": false,
+                "isComingSoon": false,
+                "fullPrice": 7.9900,
+                "thumbnails": [
+                    {
+                        "width": 1024,
+                        "height": 1527,
+                        "fileSize": 13800,
+                        "url": "https://cdn.kodansha.us/statics/kodansha_placeholder_1024.png",
+                        "color": "blue"
+                    }
+                ]
+            }
+        ],
+        "readable": {
+            "seriesReadableUrl": "pass-the-monster-meat-milady",
+            "digitalReleaseDate": "2025-05-27T00:00:00",
+            "genres": [
+                {
+                    "id": 2,
+                    "name": "Romance"
+                },
+                {
+                    "id": 4,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 9,
+                    "name": "Comedy"
+                }
+            ],
+            "seriesId": "765",
+            "isbn": "9798888774533",
+            "eisbn": "9798894785721",
+            "pageCount": 178,
+            "copyright": "Pass the Monster Meat, Milady! © Kanata Hoshi, Chika Mizube, Peperon/KODANSHA LTD.",
+            "coverType": "Paperback",
+            "colorType": "FullColor",
+            "releaseDate": "2025-05-27T00:00:00"
+        },
+        "downloadable": {
+            "reverseReadOrder": true,
+            "supportsBookMode": true,
+            "supportsScrollMode": true
+        },
+        "relativeName": "Volume 8",
+        "publishDate": "2025-05-27T07:00:43",
+        "id": 33081,
+        "name": "Pass the Monster Meat, Milady!, Volume 8",
+        "description": "Aristide, the “Blood-Mad Duke,” is injured after defending the castle from the angry mother Sirius and the rampaging Berguignon swarm. While the Duke is sent to bed to rest and heal, his fiancée Princess Melphiera tackles an entirely different challenge…what to do with all the Berguignon carcasses left dead and tantalizingly edible after the attack?! With the help of Lenya the cook, Melphiera concocts a plan to turn the Berguignon from vicious monsters to delicious hors d’oeuvres!",
+        "categoryId": 0,
+        "category": "Publication",
+        "subCategoryId": 0,
+        "subCategory": "Volume",
+        "thumbnails": [
+            {
+                "width": 1440,
+                "height": 2051,
+                "fileSize": 280131,
+                "url": "https://cdn.kodansha.us/statics/Publications/33081/Pages/page-0001.jpg"
+            }
+        ],
+        "volumeNumber": 8,
+        "readableUrl": "pass-the-monster-meat-milady-8"
+    },
+    {
+        "variants": [
+            {
+                "priceType": "Paid",
+                "usesDefaultProductImage": false,
+                "id": -1,
+                "type": "Digital",
+                "description": "Digital",
+                "price": 7.9900,
+                "currency": "USD",
+                "isOnSale": false,
+                "isPreOrder": false,
+                "isComingSoon": false,
+                "fullPrice": 7.9900,
+                "thumbnails": [
+                    {
+                        "width": 1024,
+                        "height": 1527,
+                        "fileSize": 13800,
+                        "url": "https://cdn.kodansha.us/statics/kodansha_placeholder_1024.png",
+                        "color": "blue"
+                    }
+                ]
+            }
+        ],
+        "readable": {
+            "seriesReadableUrl": "pass-the-monster-meat-milady",
+            "digitalReleaseDate": "2025-12-30T00:00:00",
+            "genres": [
+                {
+                    "id": 2,
+                    "name": "Romance"
+                },
+                {
+                    "id": 4,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 9,
+                    "name": "Comedy"
+                }
+            ],
+            "seriesId": "765",
+            "isbn": "9798888775714",
+            "eisbn": "9798894787992",
+            "pageCount": 178,
+            "copyright": "Pass the Monster Meat, Milady! © Kanata Hoshi, Chika Mizube, Peperon/KODANSHA LTD.",
+            "coverType": "Paperback",
+            "colorType": "FullColor",
+            "releaseDate": "2025-12-30T00:00:00"
+        },
+        "downloadable": {
+            "reverseReadOrder": true,
+            "supportsBookMode": true,
+            "supportsScrollMode": true
+        },
+        "relativeName": "Volume 9",
+        "publishDate": "2025-12-30T16:00:00",
+        "id": 33461,
+        "name": "Pass the Monster Meat, Milady!, Volume 9",
+        "description": "When a giant mother Sirius lies dying from magic contamination, only Melphiera can extract the poison and save it—but doing so will be the greatest magical challenge of her life! And with the eyes of all of Galbraith’s magic-users upon her, including chief sorcerer Odilon, will Melphiera’s sorcerous secrets be seen by someone who will misuse them? Then, Melphiera and her fiance Duke Aristide get a rare moment of peace…and a chance to go on a date in castle town!",
+        "categoryId": 0,
+        "category": "Publication",
+        "subCategoryId": 0,
+        "subCategory": "Volume",
+        "thumbnails": [
+            {
+                "width": 1440,
+                "height": 2051,
+                "fileSize": 298033,
+                "url": "https://cdn.kodansha.us/statics/Publications/33461/Pages/page-0001.jpg"
+            }
+        ],
+        "volumeNumber": 9,
+        "readableUrl": "pass-the-monster-meat-milady-9"
+    }
+]

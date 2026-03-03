@@ -45,6 +45,7 @@ series:
     author: "Chika Mizube, Kanata Hoshi (Created by), Peperon (Designed by)"
     publisher: kodansha_international
     series_url: "https://kodansha.us/series/pass-the-monster-meat-milady"
+    api_url: "https://api.kodansha.us/product/forSeries/765?platform=web&api-version=1.4"
     last_volume: 9
     status: ongoing
   - title: "Yakuza Fiancé: Raise wa Tanin ga Ii"
@@ -61,6 +62,7 @@ series:
     author: "Yo Asami, Natsu Hyuuga (Created by), Chiho Shinishi (Designed by)"
     publisher: kodansha_international
     series_url: "https://kodansha.us/series/you-cant-bluff-the-sharp-eyed-sister"
+    api_url: "https://api.kodansha.us/product/forSeries/879?platform=web&api-version=1.4"
     last_volume: 3
     status: ongoing
   - title: "Kill the Villainess"
