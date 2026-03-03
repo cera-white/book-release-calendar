@@ -1,0 +1,1034 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Book Releases//ICS Feed//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Book Releases
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:release:square_enix:the_apothecary_diaries:paperback:vol_001@anigramspr
+ oductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:The Apothecary Diaries — Vol. 1 (paperback)
+DESCRIPTION:Series: The Apothecary Diaries\nVolume: 1\nTitle: The Apothecar
+ y Diaries (Manga)\, Volume 1\nPublisher: square_enix\nFormat: paperback\nUR
+ L: https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781
+ 646090709
+URL:https://squareenixmangaandbooks.square-enix-games.com/en-us/product/978
+ 1646090709
+DTSTART;VALUE=DATE:20201208
+DTEND;VALUE=DATE:20201209
+END:VEVENT
+BEGIN:VEVENT
+UID:release:square_enix:the_apothecary_diaries:paperback:vol_002@anigramspr
+ oductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:The Apothecary Diaries — Vol. 2 (paperback)
+DESCRIPTION:Series: The Apothecary Diaries\nVolume: 2\nTitle: The Apothecar
+ y Diaries (Manga)\, Volume 2\nPublisher: square_enix\nFormat: paperback\nUR
+ L: https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781
+ 646090716
+URL:https://squareenixmangaandbooks.square-enix-games.com/en-us/product/978
+ 1646090716
+DTSTART;VALUE=DATE:20210209
+DTEND;VALUE=DATE:20210210
+END:VEVENT
+BEGIN:VEVENT
+UID:release:square_enix:the_apothecary_diaries:paperback:vol_003@anigramspr
+ oductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:The Apothecary Diaries — Vol. 3 (paperback)
+DESCRIPTION:Series: The Apothecary Diaries\nVolume: 3\nTitle: The Apothecar
+ y Diaries (Manga)\, Volume 3\nPublisher: square_enix\nFormat: paperback\nUR
+ L: https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781
+ 646090723
+URL:https://squareenixmangaandbooks.square-enix-games.com/en-us/product/978
+ 1646090723
+DTSTART;VALUE=DATE:20210921
+DTEND;VALUE=DATE:20210922
+END:VEVENT
+BEGIN:VEVENT
+UID:release:square_enix:the_apothecary_diaries:paperback:vol_004@anigramspr
+ oductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:The Apothecary Diaries — Vol. 4 (paperback)
+DESCRIPTION:Series: The Apothecary Diaries\nVolume: 4\nTitle: The Apothecar
+ y Diaries (Manga)\, Volume 4\nPublisher: square_enix\nFormat: paperback\nUR
+ L: https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781
+ 646090730
+URL:https://squareenixmangaandbooks.square-enix-games.com/en-us/product/978
+ 1646090730
+DTSTART;VALUE=DATE:20220104
+DTEND;VALUE=DATE:20220105
+END:VEVENT
+BEGIN:VEVENT
+UID:release:seven_seas_entertainment:magic_artisan_dahlia_wilts_no_more:pap
+ erback:vol_001@anigramsproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Magic Artisan Dahlia Wilts No More — Vol. 1 (paperback)
+DESCRIPTION:Series: Magic Artisan Dahlia Wilts No More\nVolume: 1\nTitle: M
+ agic Artisan Dahlia Wilts No More (Manga) Vol. 1\nPublisher: seven_seas_ent
+ ertainment\nFormat: paperback\nURL: https://sevenseasentertainment.com/book
+ s/magic-artisan-dahlia-wilts-no-more-manga-vol-1/
+URL:https://sevenseasentertainment.com/books/magic-artisan-dahlia-wilts-no-
+ more-manga-vol-1/
+DTSTART;VALUE=DATE:20220419
+DTEND;VALUE=DATE:20220420
+END:VEVENT
+BEGIN:VEVENT
+UID:release:yen_press:why_raeliana_ended_up_at_the_dukes_mansion:paperback:
+ vol_001@anigramsproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Why Raeliana Ended Up at the Duke's Mansion — Vol. 1 (paperback)
+DESCRIPTION:Series: Why Raeliana Ended Up at the Duke's Mansion\nVolume: 1\
+ nTitle: Why Raeliana Ended Up at the Duke's Mansion\, Vol. 1\nPublisher: ye
+ n_press\nFormat: paperback\nURL: https://yenpress.com/titles/9781975341084-
+ why-raeliana-ended-up-at-the-duke-s-mansion-vol-1
+URL:https://yenpress.com/titles/9781975341084-why-raeliana-ended-up-at-the-
+ duke-s-mansion-vol-1
+DTSTART;VALUE=DATE:20220628
+DTEND;VALUE=DATE:20220629
+END:VEVENT
+BEGIN:VEVENT
+UID:release:seven_seas_entertainment:magic_artisan_dahlia_wilts_no_more:pap
+ erback:vol_002@anigramsproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Magic Artisan Dahlia Wilts No More — Vol. 2 (paperback)
+DESCRIPTION:Series: Magic Artisan Dahlia Wilts No More\nVolume: 2\nTitle: M
+ agic Artisan Dahlia Wilts No More (Manga) Vol. 2\nPublisher: seven_seas_ent
+ ertainment\nFormat: paperback\nURL: https://sevenseasentertainment.com/book
+ s/magic-artisan-dahlia-wilts-no-more-manga-vol-2/
+URL:https://sevenseasentertainment.com/books/magic-artisan-dahlia-wilts-no-
+ more-manga-vol-2/
+DTSTART;VALUE=DATE:20220705
+DTEND;VALUE=DATE:20220706
+END:VEVENT
+BEGIN:VEVENT
+UID:release:square_enix:the_apothecary_diaries:paperback:vol_005@anigramspr
+ oductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:The Apothecary Diaries — Vol. 5 (paperback)
+DESCRIPTION:Series: The Apothecary Diaries\nVolume: 5\nTitle: The Apothecar
+ y Diaries (Manga)\, Volume 5\nPublisher: square_enix\nFormat: paperback\nUR
+ L: https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781
+ 646090747
+URL:https://squareenixmangaandbooks.square-enix-games.com/en-us/product/978
+ 1646090747
+DTSTART;VALUE=DATE:20220712
+DTEND;VALUE=DATE:20220713
+END:VEVENT
+BEGIN:VEVENT
+UID:release:square_enix:the_apothecary_diaries:paperback:vol_006@anigramspr
+ oductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:The Apothecary Diaries — Vol. 6 (paperback)
+DESCRIPTION:Series: The Apothecary Diaries\nVolume: 6\nTitle: The Apothecar
+ y Diaries (Manga)\, Volume 6\nPublisher: square_enix\nFormat: paperback\nUR
+ L: https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781
+ 646090860
+URL:https://squareenixmangaandbooks.square-enix-games.com/en-us/product/978
+ 1646090860
+DTSTART;VALUE=DATE:20220913
+DTEND;VALUE=DATE:20220914
+END:VEVENT
+BEGIN:VEVENT
+UID:release:seven_seas_entertainment:7th_time_loop_the_villainess_enjoys_a_
+ carefree_life_married_to_her_worst_enemy:paperback:vol_001@anigramsproducti
+ ons.com
+DTSTAMP:20260303T092345Z
+SUMMARY:7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her
+  Worst Enemy! — Vol. 1 (paperback)
+DESCRIPTION:Series: 7th Time Loop: The Villainess Enjoys a Carefree Life Ma
+ rried to Her Worst Enemy!\nVolume: 1\nTitle: 7th Time Loop: The Villainess
+ Enjoys a Carefree Life Married to Her Worst Enemy! (Manga) Vol. 1\nPublishe
+ r: seven_seas_entertainment\nFormat: paperback\nURL: https://sevenseasenter
+ tainment.com/books/7th-time-loop-the-villainess-enjoys-a-carefree-life-marr
+ ied-to-her-worst-enemy-manga-vol-1/
+URL:https://sevenseasentertainment.com/books/7th-time-loop-the-villainess-e
+ njoys-a-carefree-life-married-to-her-worst-enemy-manga-vol-1/
+DTSTART;VALUE=DATE:20220927
+DTEND;VALUE=DATE:20220928
+END:VEVENT
+BEGIN:VEVENT
+UID:release:seven_seas_entertainment:magic_artisan_dahlia_wilts_no_more:pap
+ erback:vol_003@anigramsproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Magic Artisan Dahlia Wilts No More — Vol. 3 (paperback)
+DESCRIPTION:Series: Magic Artisan Dahlia Wilts No More\nVolume: 3\nTitle: M
+ agic Artisan Dahlia Wilts No More (Manga) Vol. 3\nPublisher: seven_seas_ent
+ ertainment\nFormat: paperback\nURL: https://sevenseasentertainment.com/book
+ s/magic-artisan-dahlia-wilts-no-more-manga-vol-3/
+URL:https://sevenseasentertainment.com/books/magic-artisan-dahlia-wilts-no-
+ more-manga-vol-3/
+DTSTART;VALUE=DATE:20221011
+DTEND;VALUE=DATE:20221012
+END:VEVENT
+BEGIN:VEVENT
+UID:release:yen_press:villains_are_destined_to_die:paperback:vol_001@anigra
+ msproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Villains Are Destined to Die — Vol. 1 (paperback)
+DESCRIPTION:Series: Villains Are Destined to Die\nVolume: 1\nTitle: Villain
+ s Are Destined to Die\, Vol. 1\nPublisher: yen_press\nFormat: paperback\nUR
+ L: https://yenpress.com/titles/9798400900006-villains-are-destined-to-die-v
+ ol-1
+URL:https://yenpress.com/titles/9798400900006-villains-are-destined-to-die-
+ vol-1
+DTSTART;VALUE=DATE:20221108
+DTEND;VALUE=DATE:20221109
+END:VEVENT
+BEGIN:VEVENT
+UID:release:yen_press:why_raeliana_ended_up_at_the_dukes_mansion:paperback:
+ vol_002@anigramsproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Why Raeliana Ended Up at the Duke's Mansion — Vol. 2 (paperback)
+DESCRIPTION:Series: Why Raeliana Ended Up at the Duke's Mansion\nVolume: 2\
+ nTitle: Why Raeliana Ended Up at the Duke's Mansion\, Vol. 2\nPublisher: ye
+ n_press\nFormat: paperback\nURL: https://yenpress.com/titles/9781975341107-
+ why-raeliana-ended-up-at-the-duke-s-mansion-vol-2
+URL:https://yenpress.com/titles/9781975341107-why-raeliana-ended-up-at-the-
+ duke-s-mansion-vol-2
+DTSTART;VALUE=DATE:20221122
+DTEND;VALUE=DATE:20221123
+END:VEVENT
+BEGIN:VEVENT
+UID:release:seven_seas_entertainment:yakuza_fianc_raise_wa_tanin_ga_ii:pape
+ rback:vol_001@anigramsproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Yakuza Fiancé: Raise wa Tanin ga Ii — Vol. 1 (paperback)
+DESCRIPTION:Series: Yakuza Fiancé: Raise wa Tanin ga Ii\nVolume: 1\nTitle:
+  Yakuza Fiancé: Raise wa Tanin ga Ii Vol. 1\nPublisher: seven_seas_enterta
+ inment\nFormat: paperback\nURL: https://sevenseasentertainment.com/books/ya
+ kuza-fiance-raise-wa-tanin-ga-ii-vol-1/
+URL:https://sevenseasentertainment.com/books/yakuza-fiance-raise-wa-tanin-g
+ a-ii-vol-1/
+DTSTART;VALUE=DATE:20221206
+DTEND;VALUE=DATE:20221207
+END:VEVENT
+BEGIN:VEVENT
+UID:release:seven_seas_entertainment:7th_time_loop_the_villainess_enjoys_a_
+ carefree_life_married_to_her_worst_enemy:paperback:vol_002@anigramsproducti
+ ons.com
+DTSTAMP:20260303T092345Z
+SUMMARY:7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her
+  Worst Enemy! — Vol. 2 (paperback)
+DESCRIPTION:Series: 7th Time Loop: The Villainess Enjoys a Carefree Life Ma
+ rried to Her Worst Enemy!\nVolume: 2\nTitle: 7th Time Loop: The Villainess
+ Enjoys a Carefree Life Married to Her Worst Enemy! (Manga) Vol. 2\nPublishe
+ r: seven_seas_entertainment\nFormat: paperback\nURL: https://sevenseasenter
+ tainment.com/books/7th-time-loop-the-villainess-enjoys-a-carefree-life-marr
+ ied-to-her-worst-enemy-manga-vol-2/
+URL:https://sevenseasentertainment.com/books/7th-time-loop-the-villainess-e
+ njoys-a-carefree-life-married-to-her-worst-enemy-manga-vol-2/
+DTSTART;VALUE=DATE:20221213
+DTEND;VALUE=DATE:20221214
+END:VEVENT
+BEGIN:VEVENT
+UID:release:square_enix:the_apothecary_diaries:paperback:vol_007@anigramspr
+ oductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:The Apothecary Diaries — Vol. 7 (paperback)
+DESCRIPTION:Series: The Apothecary Diaries\nVolume: 7\nTitle: The Apothecar
+ y Diaries (Manga)\, Volume 7\nPublisher: square_enix\nFormat: paperback\nUR
+ L: https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781
+ 646091201
+URL:https://squareenixmangaandbooks.square-enix-games.com/en-us/product/978
+ 1646091201
+DTSTART;VALUE=DATE:20221220
+DTEND;VALUE=DATE:20221221
+END:VEVENT
+BEGIN:VEVENT
+UID:release:seven_seas_entertainment:yakuza_fianc_raise_wa_tanin_ga_ii:pape
+ rback:vol_002@anigramsproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Yakuza Fiancé: Raise wa Tanin ga Ii — Vol. 2 (paperback)
+DESCRIPTION:Series: Yakuza Fiancé: Raise wa Tanin ga Ii\nVolume: 2\nTitle:
+  Yakuza Fiancé: Raise wa Tanin ga Ii Vol. 2\nPublisher: seven_seas_enterta
+ inment\nFormat: paperback\nURL: https://sevenseasentertainment.com/books/ya
+ kuza-fiance-raise-wa-tanin-ga-ii-vol-2/
+URL:https://sevenseasentertainment.com/books/yakuza-fiance-raise-wa-tanin-g
+ a-ii-vol-2/
+DTSTART;VALUE=DATE:20230131
+DTEND;VALUE=DATE:20230201
+END:VEVENT
+BEGIN:VEVENT
+UID:release:yen_press:villains_are_destined_to_die:paperback:vol_002@anigra
+ msproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Villains Are Destined to Die — Vol. 2 (paperback)
+DESCRIPTION:Series: Villains Are Destined to Die\nVolume: 2\nTitle: Villain
+ s Are Destined to Die\, Vol. 2\nPublisher: yen_press\nFormat: paperback\nUR
+ L: https://yenpress.com/titles/9798400900020-villains-are-destined-to-die-v
+ ol-2
+URL:https://yenpress.com/titles/9798400900020-villains-are-destined-to-die-
+ vol-2
+DTSTART;VALUE=DATE:20230221
+DTEND;VALUE=DATE:20230222
+END:VEVENT
+BEGIN:VEVENT
+UID:release:seven_seas_entertainment:magic_artisan_dahlia_wilts_no_more:pap
+ erback:vol_004@anigramsproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Magic Artisan Dahlia Wilts No More — Vol. 4 (paperback)
+DESCRIPTION:Series: Magic Artisan Dahlia Wilts No More\nVolume: 4\nTitle: M
+ agic Artisan Dahlia Wilts No More (Manga) Vol. 4\nPublisher: seven_seas_ent
+ ertainment\nFormat: paperback\nURL: https://sevenseasentertainment.com/book
+ s/magic-artisan-dahlia-wilts-no-more-manga-vol-4/
+URL:https://sevenseasentertainment.com/books/magic-artisan-dahlia-wilts-no-
+ more-manga-vol-4/
+DTSTART;VALUE=DATE:20230228
+DTEND;VALUE=DATE:20230301
+END:VEVENT
+BEGIN:VEVENT
+UID:release:yen_press:why_raeliana_ended_up_at_the_dukes_mansion:paperback:
+ vol_003@anigramsproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Why Raeliana Ended Up at the Duke's Mansion — Vol. 3 (paperback)
+DESCRIPTION:Series: Why Raeliana Ended Up at the Duke's Mansion\nVolume: 3\
+ nTitle: Why Raeliana Ended Up at the Duke's Mansion\, Vol. 3\nPublisher: ye
+ n_press\nFormat: paperback\nURL: https://yenpress.com/titles/9781975341121-
+ why-raeliana-ended-up-at-the-duke-s-mansion-vol-3
+URL:https://yenpress.com/titles/9781975341121-why-raeliana-ended-up-at-the-
+ duke-s-mansion-vol-3
+DTSTART;VALUE=DATE:20230418
+DTEND;VALUE=DATE:20230419
+END:VEVENT
+BEGIN:VEVENT
+UID:release:seven_seas_entertainment:yakuza_fianc_raise_wa_tanin_ga_ii:pape
+ rback:vol_003@anigramsproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Yakuza Fiancé: Raise wa Tanin ga Ii — Vol. 3 (paperback)
+DESCRIPTION:Series: Yakuza Fiancé: Raise wa Tanin ga Ii\nVolume: 3\nTitle:
+  Yakuza Fiancé: Raise wa Tanin ga Ii Vol. 3\nPublisher: seven_seas_enterta
+ inment\nFormat: paperback\nURL: https://sevenseasentertainment.com/books/ya
+ kuza-fiance-raise-wa-tanin-ga-ii-vol-3/
+URL:https://sevenseasentertainment.com/books/yakuza-fiance-raise-wa-tanin-g
+ a-ii-vol-3/
+DTSTART;VALUE=DATE:20230523
+DTEND;VALUE=DATE:20230524
+END:VEVENT
+BEGIN:VEVENT
+UID:release:yen_press:villains_are_destined_to_die:paperback:vol_003@anigra
+ msproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Villains Are Destined to Die — Vol. 3 (paperback)
+DESCRIPTION:Series: Villains Are Destined to Die\nVolume: 3\nTitle: Villain
+ s Are Destined to Die\, Vol. 3\nPublisher: yen_press\nFormat: paperback\nUR
+ L: https://yenpress.com/titles/9798400900143-villains-are-destined-to-die-v
+ ol-3
+URL:https://yenpress.com/titles/9798400900143-villains-are-destined-to-die-
+ vol-3
+DTSTART;VALUE=DATE:20230523
+DTEND;VALUE=DATE:20230524
+END:VEVENT
+BEGIN:VEVENT
+UID:release:seven_seas_entertainment:7th_time_loop_the_villainess_enjoys_a_
+ carefree_life_married_to_her_worst_enemy:paperback:vol_003@anigramsproducti
+ ons.com
+DTSTAMP:20260303T092345Z
+SUMMARY:7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her
+  Worst Enemy! — Vol. 3 (paperback)
+DESCRIPTION:Series: 7th Time Loop: The Villainess Enjoys a Carefree Life Ma
+ rried to Her Worst Enemy!\nVolume: 3\nTitle: 7th Time Loop: The Villainess
+ Enjoys a Carefree Life Married to Her Worst Enemy! (Manga) Vol. 3\nPublishe
+ r: seven_seas_entertainment\nFormat: paperback\nURL: https://sevenseasenter
+ tainment.com/books/7th-time-loop-the-villainess-enjoys-a-carefree-life-marr
+ ied-to-her-worst-enemy-manga-vol-3/
+URL:https://sevenseasentertainment.com/books/7th-time-loop-the-villainess-e
+ njoys-a-carefree-life-married-to-her-worst-enemy-manga-vol-3/
+DTSTART;VALUE=DATE:20230627
+DTEND;VALUE=DATE:20230628
+END:VEVENT
+BEGIN:VEVENT
+UID:release:square_enix:the_apothecary_diaries:paperback:vol_008@anigramspr
+ oductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:The Apothecary Diaries — Vol. 8 (paperback)
+DESCRIPTION:Series: The Apothecary Diaries\nVolume: 8\nTitle: The Apothecar
+ y Diaries (Manga)\, Volume 8\nPublisher: square_enix\nFormat: paperback\nUR
+ L: https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781
+ 646091348
+URL:https://squareenixmangaandbooks.square-enix-games.com/en-us/product/978
+ 1646091348
+DTSTART;VALUE=DATE:20230718
+DTEND;VALUE=DATE:20230719
+END:VEVENT
+BEGIN:VEVENT
+UID:release:yen_press:why_raeliana_ended_up_at_the_dukes_mansion:paperback:
+ vol_004@anigramsproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Why Raeliana Ended Up at the Duke's Mansion — Vol. 4 (paperback)
+DESCRIPTION:Series: Why Raeliana Ended Up at the Duke's Mansion\nVolume: 4\
+ nTitle: Why Raeliana Ended Up at the Duke's Mansion\, Vol. 4\nPublisher: ye
+ n_press\nFormat: paperback\nURL: https://yenpress.com/titles/9781975341145-
+ why-raeliana-ended-up-at-the-duke-s-mansion-vol-4
+URL:https://yenpress.com/titles/9781975341145-why-raeliana-ended-up-at-the-
+ duke-s-mansion-vol-4
+DTSTART;VALUE=DATE:20230718
+DTEND;VALUE=DATE:20230719
+END:VEVENT
+BEGIN:VEVENT
+UID:release:seven_seas_entertainment:yakuza_fianc_raise_wa_tanin_ga_ii:pape
+ rback:vol_004@anigramsproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Yakuza Fiancé: Raise wa Tanin ga Ii — Vol. 4 (paperback)
+DESCRIPTION:Series: Yakuza Fiancé: Raise wa Tanin ga Ii\nVolume: 4\nTitle:
+  Yakuza Fiancé: Raise wa Tanin ga Ii Vol. 4\nPublisher: seven_seas_enterta
+ inment\nFormat: paperback\nURL: https://sevenseasentertainment.com/books/ya
+ kuza-fiance-raise-wa-tanin-ga-ii-vol-4/
+URL:https://sevenseasentertainment.com/books/yakuza-fiance-raise-wa-tanin-g
+ a-ii-vol-4/
+DTSTART;VALUE=DATE:20230801
+DTEND;VALUE=DATE:20230802
+END:VEVENT
+BEGIN:VEVENT
+UID:release:square_enix:the_apothecary_diaries:paperback:vol_009@anigramspr
+ oductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:The Apothecary Diaries — Vol. 9 (paperback)
+DESCRIPTION:Series: The Apothecary Diaries\nVolume: 9\nTitle: The Apothecar
+ y Diaries (Manga)\, Volume 9\nPublisher: square_enix\nFormat: paperback\nUR
+ L: https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781
+ 646091355
+URL:https://squareenixmangaandbooks.square-enix-games.com/en-us/product/978
+ 1646091355
+DTSTART;VALUE=DATE:20230815
+DTEND;VALUE=DATE:20230816
+END:VEVENT
+BEGIN:VEVENT
+UID:release:seven_seas_entertainment:magic_artisan_dahlia_wilts_no_more:pap
+ erback:vol_005@anigramsproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Magic Artisan Dahlia Wilts No More — Vol. 5 (paperback)
+DESCRIPTION:Series: Magic Artisan Dahlia Wilts No More\nVolume: 5\nTitle: M
+ agic Artisan Dahlia Wilts No More (Manga) Vol. 5\nPublisher: seven_seas_ent
+ ertainment\nFormat: paperback\nURL: https://sevenseasentertainment.com/book
+ s/magic-artisan-dahlia-wilts-no-more-manga-vol-5/
+URL:https://sevenseasentertainment.com/books/magic-artisan-dahlia-wilts-no-
+ more-manga-vol-5/
+DTSTART;VALUE=DATE:20230822
+DTEND;VALUE=DATE:20230823
+END:VEVENT
+BEGIN:VEVENT
+UID:release:yen_press:villains_are_destined_to_die:paperback:vol_004@anigra
+ msproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Villains Are Destined to Die — Vol. 4 (paperback)
+DESCRIPTION:Series: Villains Are Destined to Die\nVolume: 4\nTitle: Villain
+ s Are Destined to Die\, Vol. 4\nPublisher: yen_press\nFormat: paperback\nUR
+ L: https://yenpress.com/titles/9798400900464-villains-are-destined-to-die-v
+ ol-4
+URL:https://yenpress.com/titles/9798400900464-villains-are-destined-to-die-
+ vol-4
+DTSTART;VALUE=DATE:20230822
+DTEND;VALUE=DATE:20230823
+END:VEVENT
+BEGIN:VEVENT
+UID:release:seven_seas_entertainment:yakuza_fianc_raise_wa_tanin_ga_ii:pape
+ rback:vol_005@anigramsproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Yakuza Fiancé: Raise wa Tanin ga Ii — Vol. 5 (paperback)
+DESCRIPTION:Series: Yakuza Fiancé: Raise wa Tanin ga Ii\nVolume: 5\nTitle:
+  Yakuza Fiancé: Raise wa Tanin ga Ii Vol. 5\nPublisher: seven_seas_enterta
+ inment\nFormat: paperback\nURL: https://sevenseasentertainment.com/books/ya
+ kuza-fiance-raise-wa-tanin-ga-ii-vol-5/
+URL:https://sevenseasentertainment.com/books/yakuza-fiance-raise-wa-tanin-g
+ a-ii-vol-5/
+DTSTART;VALUE=DATE:20231024
+DTEND;VALUE=DATE:20231025
+END:VEVENT
+BEGIN:VEVENT
+UID:release:yen_press:villains_are_destined_to_die:paperback:vol_005@anigra
+ msproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Villains Are Destined to Die — Vol. 5 (paperback)
+DESCRIPTION:Series: Villains Are Destined to Die\nVolume: 5\nTitle: Villain
+ s Are Destined to Die\, Vol. 5\nPublisher: yen_press\nFormat: paperback\nUR
+ L: https://yenpress.com/titles/9798400900532-villains-are-destined-to-die-v
+ ol-5
+URL:https://yenpress.com/titles/9798400900532-villains-are-destined-to-die-
+ vol-5
+DTSTART;VALUE=DATE:20231121
+DTEND;VALUE=DATE:20231122
+END:VEVENT
+BEGIN:VEVENT
+UID:release:yen_press:why_raeliana_ended_up_at_the_dukes_mansion:paperback:
+ vol_005@anigramsproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Why Raeliana Ended Up at the Duke's Mansion — Vol. 5 (paperback)
+DESCRIPTION:Series: Why Raeliana Ended Up at the Duke's Mansion\nVolume: 5\
+ nTitle: Why Raeliana Ended Up at the Duke's Mansion\, Vol. 5\nPublisher: ye
+ n_press\nFormat: paperback\nURL: https://yenpress.com/titles/9781975366926-
+ why-raeliana-ended-up-at-the-duke-s-mansion-vol-5
+URL:https://yenpress.com/titles/9781975366926-why-raeliana-ended-up-at-the-
+ duke-s-mansion-vol-5
+DTSTART;VALUE=DATE:20231121
+DTEND;VALUE=DATE:20231122
+END:VEVENT
+BEGIN:VEVENT
+UID:release:square_enix:the_apothecary_diaries:paperback:vol_010@anigramspr
+ oductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:The Apothecary Diaries — Vol. 10 (paperback)
+DESCRIPTION:Series: The Apothecary Diaries\nVolume: 10\nTitle: The Apotheca
+ ry Diaries (Manga)\, Volume 10\nPublisher: square_enix\nFormat: paperback\n
+ URL: https://squareenixmangaandbooks.square-enix-games.com/en-us/product/97
+ 81646091362
+URL:https://squareenixmangaandbooks.square-enix-games.com/en-us/product/978
+ 1646091362
+DTSTART;VALUE=DATE:20231128
+DTEND;VALUE=DATE:20231129
+END:VEVENT
+BEGIN:VEVENT
+UID:release:seven_seas_entertainment:7th_time_loop_the_villainess_enjoys_a_
+ carefree_life_married_to_her_worst_enemy:paperback:vol_004@anigramsproducti
+ ons.com
+DTSTAMP:20260303T092345Z
+SUMMARY:7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her
+  Worst Enemy! — Vol. 4 (paperback)
+DESCRIPTION:Series: 7th Time Loop: The Villainess Enjoys a Carefree Life Ma
+ rried to Her Worst Enemy!\nVolume: 4\nTitle: 7th Time Loop: The Villainess
+ Enjoys a Carefree Life Married to Her Worst Enemy! (Manga) Vol. 4\nPublishe
+ r: seven_seas_entertainment\nFormat: paperback\nURL: https://sevenseasenter
+ tainment.com/books/7th-time-loop-the-villainess-enjoys-a-carefree-life-marr
+ ied-to-her-worst-enemy-manga-vol-4/
+URL:https://sevenseasentertainment.com/books/7th-time-loop-the-villainess-e
+ njoys-a-carefree-life-married-to-her-worst-enemy-manga-vol-4/
+DTSTART;VALUE=DATE:20231205
+DTEND;VALUE=DATE:20231206
+END:VEVENT
+BEGIN:VEVENT
+UID:release:kodansha_international:pass_the_monster_meat_milady:paperback:v
+ ol_001@anigramsproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Pass the Monster Meat\, Milady! — Vol. 1 (paperback)
+DESCRIPTION:Series: Pass the Monster Meat\, Milady!\nVolume: 1\nTitle: Pass
+  the Monster Meat\, Milady!\, Volume 1\nPublisher: kodansha_international\n
+ Format: paperback\nURL: https://kodansha.us/product/pass-the-monster-meat-m
+ ilady-1
+URL:https://kodansha.us/product/pass-the-monster-meat-milady-1
+DTSTART;VALUE=DATE:20231212
+DTEND;VALUE=DATE:20231213
+END:VEVENT
+BEGIN:VEVENT
+UID:release:seven_seas_entertainment:yakuza_fianc_raise_wa_tanin_ga_ii:pape
+ rback:vol_006@anigramsproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Yakuza Fiancé: Raise wa Tanin ga Ii — Vol. 6 (paperback)
+DESCRIPTION:Series: Yakuza Fiancé: Raise wa Tanin ga Ii\nVolume: 6\nTitle:
+  Yakuza Fiancé: Raise wa Tanin ga Ii Vol. 6\nPublisher: seven_seas_enterta
+ inment\nFormat: paperback\nURL: https://sevenseasentertainment.com/books/ya
+ kuza-fiance-raise-wa-tanin-ga-ii-vol-6/
+URL:https://sevenseasentertainment.com/books/yakuza-fiance-raise-wa-tanin-g
+ a-ii-vol-6/
+DTSTART;VALUE=DATE:20240116
+DTEND;VALUE=DATE:20240117
+END:VEVENT
+BEGIN:VEVENT
+UID:release:kodansha_international:pass_the_monster_meat_milady:paperback:v
+ ol_002@anigramsproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Pass the Monster Meat\, Milady! — Vol. 2 (paperback)
+DESCRIPTION:Series: Pass the Monster Meat\, Milady!\nVolume: 2\nTitle: Pass
+  the Monster Meat\, Milady!\, Volume 2\nPublisher: kodansha_international\n
+ Format: paperback\nURL: https://kodansha.us/product/pass-the-monster-meat-m
+ ilady-2
+URL:https://kodansha.us/product/pass-the-monster-meat-milady-2
+DTSTART;VALUE=DATE:20240213
+DTEND;VALUE=DATE:20240214
+END:VEVENT
+BEGIN:VEVENT
+UID:release:yen_press:villains_are_destined_to_die:paperback:vol_006@anigra
+ msproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Villains Are Destined to Die — Vol. 6 (paperback)
+DESCRIPTION:Series: Villains Are Destined to Die\nVolume: 6\nTitle: Villain
+ s Are Destined to Die\, Vol. 6\nPublisher: yen_press\nFormat: paperback\nUR
+ L: https://yenpress.com/titles/9798400901263-villains-are-destined-to-die-v
+ ol-6
+URL:https://yenpress.com/titles/9798400901263-villains-are-destined-to-die-
+ vol-6
+DTSTART;VALUE=DATE:20240220
+DTEND;VALUE=DATE:20240221
+END:VEVENT
+BEGIN:VEVENT
+UID:release:square_enix:the_apothecary_diaries:paperback:vol_011@anigramspr
+ oductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:The Apothecary Diaries — Vol. 11 (paperback)
+DESCRIPTION:Series: The Apothecary Diaries\nVolume: 11\nTitle: The Apotheca
+ ry Diaries (Manga)\, Volume 11\nPublisher: square_enix\nFormat: paperback\n
+ URL: https://squareenixmangaandbooks.square-enix-games.com/en-us/product/97
+ 81646092529
+URL:https://squareenixmangaandbooks.square-enix-games.com/en-us/product/978
+ 1646092529
+DTSTART;VALUE=DATE:20240305
+DTEND;VALUE=DATE:20240306
+END:VEVENT
+BEGIN:VEVENT
+UID:release:seven_seas_entertainment:yakuza_fianc_raise_wa_tanin_ga_ii:pape
+ rback:vol_007@anigramsproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Yakuza Fiancé: Raise wa Tanin ga Ii — Vol. 7 (paperback)
+DESCRIPTION:Series: Yakuza Fiancé: Raise wa Tanin ga Ii\nVolume: 7\nTitle:
+  Yakuza Fiancé: Raise wa Tanin ga Ii Vol. 7\nPublisher: seven_seas_enterta
+ inment\nFormat: paperback\nURL: https://sevenseasentertainment.com/books/ya
+ kuza-fiance-raise-wa-tanin-ga-ii-vol-7/
+URL:https://sevenseasentertainment.com/books/yakuza-fiance-raise-wa-tanin-g
+ a-ii-vol-7/
+DTSTART;VALUE=DATE:20240402
+DTEND;VALUE=DATE:20240403
+END:VEVENT
+BEGIN:VEVENT
+UID:release:kodansha_international:pass_the_monster_meat_milady:paperback:v
+ ol_003@anigramsproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Pass the Monster Meat\, Milady! — Vol. 3 (paperback)
+DESCRIPTION:Series: Pass the Monster Meat\, Milady!\nVolume: 3\nTitle: Pass
+  the Monster Meat\, Milady!\, Volume 3\nPublisher: kodansha_international\n
+ Format: paperback\nURL: https://kodansha.us/product/pass-the-monster-meat-m
+ ilady-3
+URL:https://kodansha.us/product/pass-the-monster-meat-milady-3
+DTSTART;VALUE=DATE:20240409
+DTEND;VALUE=DATE:20240410
+END:VEVENT
+BEGIN:VEVENT
+UID:release:yen_press:why_raeliana_ended_up_at_the_dukes_mansion:paperback:
+ vol_006@anigramsproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Why Raeliana Ended Up at the Duke's Mansion — Vol. 6 (paperback)
+DESCRIPTION:Series: Why Raeliana Ended Up at the Duke's Mansion\nVolume: 6\
+ nTitle: Why Raeliana Ended Up at the Duke's Mansion\, Vol. 6\nPublisher: ye
+ n_press\nFormat: paperback\nURL: https://yenpress.com/titles/9781975366940-
+ why-raeliana-ended-up-at-the-duke-s-mansion-vol-6
+URL:https://yenpress.com/titles/9781975366940-why-raeliana-ended-up-at-the-
+ duke-s-mansion-vol-6
+DTSTART;VALUE=DATE:20240423
+DTEND;VALUE=DATE:20240424
+END:VEVENT
+BEGIN:VEVENT
+UID:release:kodansha_international:pass_the_monster_meat_milady:paperback:v
+ ol_004@anigramsproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Pass the Monster Meat\, Milady! — Vol. 4 (paperback)
+DESCRIPTION:Series: Pass the Monster Meat\, Milady!\nVolume: 4\nTitle: Pass
+  the Monster Meat\, Milady!\, Volume 4\nPublisher: kodansha_international\n
+ Format: paperback\nURL: https://kodansha.us/product/pass-the-monster-meat-m
+ ilady-4
+URL:https://kodansha.us/product/pass-the-monster-meat-milady-4
+DTSTART;VALUE=DATE:20240618
+DTEND;VALUE=DATE:20240619
+END:VEVENT
+BEGIN:VEVENT
+UID:release:seven_seas_entertainment:7th_time_loop_the_villainess_enjoys_a_
+ carefree_life_married_to_her_worst_enemy:paperback:vol_005@anigramsproducti
+ ons.com
+DTSTAMP:20260303T092345Z
+SUMMARY:7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her
+  Worst Enemy! — Vol. 5 (paperback)
+DESCRIPTION:Series: 7th Time Loop: The Villainess Enjoys a Carefree Life Ma
+ rried to Her Worst Enemy!\nVolume: 5\nTitle: 7th Time Loop: The Villainess
+ Enjoys a Carefree Life Married to Her Worst Enemy! (Manga) Vol. 5\nPublishe
+ r: seven_seas_entertainment\nFormat: paperback\nURL: https://sevenseasenter
+ tainment.com/books/7th-time-loop-the-villainess-enjoys-a-carefree-life-marr
+ ied-to-her-worst-enemy-manga-vol-5/
+URL:https://sevenseasentertainment.com/books/7th-time-loop-the-villainess-e
+ njoys-a-carefree-life-married-to-her-worst-enemy-manga-vol-5/
+DTSTART;VALUE=DATE:20240625
+DTEND;VALUE=DATE:20240626
+END:VEVENT
+BEGIN:VEVENT
+UID:release:yen_press:why_raeliana_ended_up_at_the_dukes_mansion:paperback:
+ vol_007@anigramsproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Why Raeliana Ended Up at the Duke's Mansion — Vol. 7 (paperback)
+DESCRIPTION:Series: Why Raeliana Ended Up at the Duke's Mansion\nVolume: 7\
+ nTitle: Why Raeliana Ended Up at the Duke's Mansion\, Vol. 7\nPublisher: ye
+ n_press\nFormat: paperback\nURL: https://yenpress.com/titles/9781975392086-
+ why-raeliana-ended-up-at-the-duke-s-mansion-vol-7
+URL:https://yenpress.com/titles/9781975392086-why-raeliana-ended-up-at-the-
+ duke-s-mansion-vol-7
+DTSTART;VALUE=DATE:20240723
+DTEND;VALUE=DATE:20240724
+END:VEVENT
+BEGIN:VEVENT
+UID:release:kodansha_international:pass_the_monster_meat_milady:paperback:v
+ ol_005@anigramsproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Pass the Monster Meat\, Milady! — Vol. 5 (paperback)
+DESCRIPTION:Series: Pass the Monster Meat\, Milady!\nVolume: 5\nTitle: Pass
+  the Monster Meat\, Milady!\, Volume 5\nPublisher: kodansha_international\n
+ Format: paperback\nURL: https://kodansha.us/product/pass-the-monster-meat-m
+ ilady-5
+URL:https://kodansha.us/product/pass-the-monster-meat-milady-5
+DTSTART;VALUE=DATE:20240813
+DTEND;VALUE=DATE:20240814
+END:VEVENT
+BEGIN:VEVENT
+UID:release:seven_seas_entertainment:yakuza_fianc_raise_wa_tanin_ga_ii:pape
+ rback:vol_008@anigramsproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Yakuza Fiancé: Raise wa Tanin ga Ii — Vol. 8 (paperback)
+DESCRIPTION:Series: Yakuza Fiancé: Raise wa Tanin ga Ii\nVolume: 8\nTitle:
+  Yakuza Fiancé: Raise wa Tanin ga Ii Vol. 8\nPublisher: seven_seas_enterta
+ inment\nFormat: paperback\nURL: https://sevenseasentertainment.com/books/ya
+ kuza-fiance-raise-wa-tanin-ga-ii-vol-8/
+URL:https://sevenseasentertainment.com/books/yakuza-fiance-raise-wa-tanin-g
+ a-ii-vol-8/
+DTSTART;VALUE=DATE:20240903
+DTEND;VALUE=DATE:20240904
+END:VEVENT
+BEGIN:VEVENT
+UID:release:square_enix:the_apothecary_diaries:paperback:vol_012@anigramspr
+ oductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:The Apothecary Diaries — Vol. 12 (paperback)
+DESCRIPTION:Series: The Apothecary Diaries\nVolume: 12\nTitle: The Apotheca
+ ry Diaries (Manga)\, Volume 12\nPublisher: square_enix\nFormat: paperback\n
+ URL: https://squareenixmangaandbooks.square-enix-games.com/en-us/product/97
+ 81646092963
+URL:https://squareenixmangaandbooks.square-enix-games.com/en-us/product/978
+ 1646092963
+DTSTART;VALUE=DATE:20240903
+DTEND;VALUE=DATE:20240904
+END:VEVENT
+BEGIN:VEVENT
+UID:release:seven_seas_entertainment:magic_artisan_dahlia_wilts_no_more:pap
+ erback:vol_006@anigramsproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Magic Artisan Dahlia Wilts No More — Vol. 6 (paperback)
+DESCRIPTION:Series: Magic Artisan Dahlia Wilts No More\nVolume: 6\nTitle: M
+ agic Artisan Dahlia Wilts No More (Manga) Vol. 6\nPublisher: seven_seas_ent
+ ertainment\nFormat: paperback\nURL: https://sevenseasentertainment.com/book
+ s/magic-artisan-dahlia-wilts-no-more-manga-vol-6/
+URL:https://sevenseasentertainment.com/books/magic-artisan-dahlia-wilts-no-
+ more-manga-vol-6/
+DTSTART;VALUE=DATE:20241001
+DTEND;VALUE=DATE:20241002
+END:VEVENT
+BEGIN:VEVENT
+UID:release:kodansha_international:pass_the_monster_meat_milady:paperback:v
+ ol_006@anigramsproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Pass the Monster Meat\, Milady! — Vol. 6 (paperback)
+DESCRIPTION:Series: Pass the Monster Meat\, Milady!\nVolume: 6\nTitle: Pass
+  the Monster Meat\, Milady!\, Volume 6\nPublisher: kodansha_international\n
+ Format: paperback\nURL: https://kodansha.us/product/pass-the-monster-meat-m
+ ilady-6
+URL:https://kodansha.us/product/pass-the-monster-meat-milady-6
+DTSTART;VALUE=DATE:20241015
+DTEND;VALUE=DATE:20241016
+END:VEVENT
+BEGIN:VEVENT
+UID:release:yen_press:why_raeliana_ended_up_at_the_dukes_mansion:paperback:
+ vol_008@anigramsproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Why Raeliana Ended Up at the Duke's Mansion — Vol. 8 (paperback)
+DESCRIPTION:Series: Why Raeliana Ended Up at the Duke's Mansion\nVolume: 8\
+ nTitle: Why Raeliana Ended Up at the Duke's Mansion\, Vol. 8\nPublisher: ye
+ n_press\nFormat: paperback\nURL: https://yenpress.com/titles/9781975392109-
+ why-raeliana-ended-up-at-the-duke-s-mansion-vol-8
+URL:https://yenpress.com/titles/9781975392109-why-raeliana-ended-up-at-the-
+ duke-s-mansion-vol-8
+DTSTART;VALUE=DATE:20241119
+DTEND;VALUE=DATE:20241120
+END:VEVENT
+BEGIN:VEVENT
+UID:release:seven_seas_entertainment:7th_time_loop_the_villainess_enjoys_a_
+ carefree_life_married_to_her_worst_enemy:paperback:vol_006@anigramsproducti
+ ons.com
+DTSTAMP:20260303T092345Z
+SUMMARY:7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her
+  Worst Enemy! — Vol. 6 (paperback)
+DESCRIPTION:Series: 7th Time Loop: The Villainess Enjoys a Carefree Life Ma
+ rried to Her Worst Enemy!\nVolume: 6\nTitle: 7th Time Loop: The Villainess
+ Enjoys a Carefree Life Married to Her Worst Enemy! (Manga) Vol. 6\nPublishe
+ r: seven_seas_entertainment\nFormat: paperback\nURL: https://sevenseasenter
+ tainment.com/books/7th-time-loop-the-villainess-enjoys-a-carefree-life-marr
+ ied-to-her-worst-enemy-manga-vol-6/
+URL:https://sevenseasentertainment.com/books/7th-time-loop-the-villainess-e
+ njoys-a-carefree-life-married-to-her-worst-enemy-manga-vol-6/
+DTSTART;VALUE=DATE:20241126
+DTEND;VALUE=DATE:20241127
+END:VEVENT
+BEGIN:VEVENT
+UID:release:kodansha_international:pass_the_monster_meat_milady:paperback:v
+ ol_007@anigramsproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Pass the Monster Meat\, Milady! — Vol. 7 (paperback)
+DESCRIPTION:Series: Pass the Monster Meat\, Milady!\nVolume: 7\nTitle: Pass
+  the Monster Meat\, Milady!\, Volume 7\nPublisher: kodansha_international\n
+ Format: paperback\nURL: https://kodansha.us/product/pass-the-monster-meat-m
+ ilady-7
+URL:https://kodansha.us/product/pass-the-monster-meat-milady-7
+DTSTART;VALUE=DATE:20250211
+DTEND;VALUE=DATE:20250212
+END:VEVENT
+BEGIN:VEVENT
+UID:release:yen_press:kill_the_villainess:paperback:vol_001@anigramsproduct
+ ions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Kill the Villainess — Vol. 1 (paperback)
+DESCRIPTION:Series: Kill the Villainess\nVolume: 1\nTitle: Kill the Villain
+ ess\, Vol. 1\nPublisher: yen_press\nFormat: paperback\nURL: https://yenpres
+ s.com/titles/9798400902864-kill-the-villainess-vol-1
+URL:https://yenpress.com/titles/9798400902864-kill-the-villainess-vol-1
+DTSTART;VALUE=DATE:20250218
+DTEND;VALUE=DATE:20250219
+END:VEVENT
+BEGIN:VEVENT
+UID:release:yen_press:villains_are_destined_to_die:paperback:vol_007@anigra
+ msproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Villains Are Destined to Die — Vol. 7 (paperback)
+DESCRIPTION:Series: Villains Are Destined to Die\nVolume: 7\nTitle: Villain
+ s Are Destined to Die\, Vol. 7\nPublisher: yen_press\nFormat: paperback\nUR
+ L: https://yenpress.com/titles/9798400902147-villains-are-destined-to-die-v
+ ol-7
+URL:https://yenpress.com/titles/9798400902147-villains-are-destined-to-die-
+ vol-7
+DTSTART;VALUE=DATE:20250218
+DTEND;VALUE=DATE:20250219
+END:VEVENT
+BEGIN:VEVENT
+UID:release:square_enix:the_apothecary_diaries:paperback:vol_013@anigramspr
+ oductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:The Apothecary Diaries — Vol. 13 (paperback)
+DESCRIPTION:Series: The Apothecary Diaries\nVolume: 13\nTitle: The Apotheca
+ ry Diaries (Manga)\, Volume 13\nPublisher: square_enix\nFormat: paperback\n
+ URL: https://squareenixmangaandbooks.square-enix-games.com/en-us/product/97
+ 81646093472
+URL:https://squareenixmangaandbooks.square-enix-games.com/en-us/product/978
+ 1646093472
+DTSTART;VALUE=DATE:20250304
+DTEND;VALUE=DATE:20250305
+END:VEVENT
+BEGIN:VEVENT
+UID:release:seven_seas_entertainment:magic_artisan_dahlia_wilts_no_more:pap
+ erback:vol_007@anigramsproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Magic Artisan Dahlia Wilts No More — Vol. 7 (paperback)
+DESCRIPTION:Series: Magic Artisan Dahlia Wilts No More\nVolume: 7\nTitle: M
+ agic Artisan Dahlia Wilts No More (Manga) Vol. 7\nPublisher: seven_seas_ent
+ ertainment\nFormat: paperback\nURL: https://sevenseasentertainment.com/book
+ s/magic-artisan-dahlia-wilts-no-more-manga-vol-7/
+URL:https://sevenseasentertainment.com/books/magic-artisan-dahlia-wilts-no-
+ more-manga-vol-7/
+DTSTART;VALUE=DATE:20250318
+DTEND;VALUE=DATE:20250319
+END:VEVENT
+BEGIN:VEVENT
+UID:release:yen_press:kill_the_villainess:paperback:vol_002@anigramsproduct
+ ions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Kill the Villainess — Vol. 2 (paperback)
+DESCRIPTION:Series: Kill the Villainess\nVolume: 2\nTitle: Kill the Villain
+ ess\, Vol. 2\nPublisher: yen_press\nFormat: paperback\nURL: https://yenpres
+ s.com/titles/9798400902888-kill-the-villainess-vol-2
+URL:https://yenpress.com/titles/9798400902888-kill-the-villainess-vol-2
+DTSTART;VALUE=DATE:20250520
+DTEND;VALUE=DATE:20250521
+END:VEVENT
+BEGIN:VEVENT
+UID:release:kodansha_international:pass_the_monster_meat_milady:paperback:v
+ ol_008@anigramsproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Pass the Monster Meat\, Milady! — Vol. 8 (paperback)
+DESCRIPTION:Series: Pass the Monster Meat\, Milady!\nVolume: 8\nTitle: Pass
+  the Monster Meat\, Milady!\, Volume 8\nPublisher: kodansha_international\n
+ Format: paperback\nURL: https://kodansha.us/product/pass-the-monster-meat-m
+ ilady-8
+URL:https://kodansha.us/product/pass-the-monster-meat-milady-8
+DTSTART;VALUE=DATE:20250527
+DTEND;VALUE=DATE:20250528
+END:VEVENT
+BEGIN:VEVENT
+UID:release:seven_seas_entertainment:7th_time_loop_the_villainess_enjoys_a_
+ carefree_life_married_to_her_worst_enemy:paperback:vol_007@anigramsproducti
+ ons.com
+DTSTAMP:20260303T092345Z
+SUMMARY:7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her
+  Worst Enemy! — Vol. 7 (paperback)
+DESCRIPTION:Series: 7th Time Loop: The Villainess Enjoys a Carefree Life Ma
+ rried to Her Worst Enemy!\nVolume: 7\nTitle: 7th Time Loop: The Villainess
+ Enjoys a Carefree Life Married to Her Worst Enemy! (Manga) Vol. 7\nPublishe
+ r: seven_seas_entertainment\nFormat: paperback\nURL: https://sevenseasenter
+ tainment.com/books/7th-time-loop-the-villainess-enjoys-a-carefree-life-marr
+ ied-to-her-worst-enemy-manga-vol-7/
+URL:https://sevenseasentertainment.com/books/7th-time-loop-the-villainess-e
+ njoys-a-carefree-life-married-to-her-worst-enemy-manga-vol-7/
+DTSTART;VALUE=DATE:20250617
+DTEND;VALUE=DATE:20250618
+END:VEVENT
+BEGIN:VEVENT
+UID:release:yen_press:kill_the_villainess:paperback:vol_003@anigramsproduct
+ ions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Kill the Villainess — Vol. 3 (paperback)
+DESCRIPTION:Series: Kill the Villainess\nVolume: 3\nTitle: Kill the Villain
+ ess\, Vol. 3\nPublisher: yen_press\nFormat: paperback\nURL: https://yenpres
+ s.com/titles/9798400902901-kill-the-villainess-vol-3
+URL:https://yenpress.com/titles/9798400902901-kill-the-villainess-vol-3
+DTSTART;VALUE=DATE:20250819
+DTEND;VALUE=DATE:20250820
+END:VEVENT
+BEGIN:VEVENT
+UID:release:square_enix:the_apothecary_diaries:paperback:vol_014@anigramspr
+ oductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:The Apothecary Diaries — Vol. 14 (paperback)
+DESCRIPTION:Series: The Apothecary Diaries\nVolume: 14\nTitle: The Apotheca
+ ry Diaries (Manga)\, Volume 14\nPublisher: square_enix\nFormat: paperback\n
+ URL: https://squareenixmangaandbooks.square-enix-games.com/en-us/product/97
+ 81646094226
+URL:https://squareenixmangaandbooks.square-enix-games.com/en-us/product/978
+ 1646094226
+DTSTART;VALUE=DATE:20251007
+DTEND;VALUE=DATE:20251008
+END:VEVENT
+BEGIN:VEVENT
+UID:release:kodansha_international:you_cant_bluff_the_sharp_eyed_sister:pap
+ erback:vol_001@anigramsproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:You Can't Bluff the Sharp-Eyed Sister — Vol. 1 (paperback)
+DESCRIPTION:Series: You Can't Bluff the Sharp-Eyed Sister\nVolume: 1\nTitle
+ : You Can't Bluff the Sharp-Eyed Sister\, Volume 1\nPublisher: kodansha_int
+ ernational\nFormat: paperback\nURL: https://kodansha.us/product/you-cant-bl
+ uff-the-sharp-eyed-sister-1
+URL:https://kodansha.us/product/you-cant-bluff-the-sharp-eyed-sister-1
+DTSTART;VALUE=DATE:20251021
+DTEND;VALUE=DATE:20251022
+END:VEVENT
+BEGIN:VEVENT
+UID:release:yen_press:why_raeliana_ended_up_at_the_dukes_mansion:paperback:
+ vol_009@anigramsproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Why Raeliana Ended Up at the Duke's Mansion — Vol. 9 (paperback)
+DESCRIPTION:Series: Why Raeliana Ended Up at the Duke's Mansion\nVolume: 9\
+ nTitle: Why Raeliana Ended Up at the Duke's Mansion\, Vol. 9\nPublisher: ye
+ n_press\nFormat: paperback\nURL: https://yenpress.com/titles/9798855419917-
+ why-raeliana-ended-up-at-the-duke-s-mansion-vol-9
+URL:https://yenpress.com/titles/9798855419917-why-raeliana-ended-up-at-the-
+ duke-s-mansion-vol-9
+DTSTART;VALUE=DATE:20251028
+DTEND;VALUE=DATE:20251029
+END:VEVENT
+BEGIN:VEVENT
+UID:release:yen_press:kill_the_villainess:paperback:vol_004@anigramsproduct
+ ions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Kill the Villainess — Vol. 4 (paperback)
+DESCRIPTION:Series: Kill the Villainess\nVolume: 4\nTitle: Kill the Villain
+ ess\, Vol. 4\nPublisher: yen_press\nFormat: paperback\nURL: https://yenpres
+ s.com/titles/9798400902925-kill-the-villainess-vol-4
+URL:https://yenpress.com/titles/9798400902925-kill-the-villainess-vol-4
+DTSTART;VALUE=DATE:20251118
+DTEND;VALUE=DATE:20251119
+END:VEVENT
+BEGIN:VEVENT
+UID:release:yen_press:villains_are_destined_to_die:paperback:vol_008@anigra
+ msproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Villains Are Destined to Die — Vol. 8 (paperback)
+DESCRIPTION:Series: Villains Are Destined to Die\nVolume: 8\nTitle: Villain
+ s Are Destined to Die\, Vol. 8\nPublisher: yen_press\nFormat: paperback\nUR
+ L: https://yenpress.com/titles/9798400904189-villains-are-destined-to-die-v
+ ol-8
+URL:https://yenpress.com/titles/9798400904189-villains-are-destined-to-die-
+ vol-8
+DTSTART;VALUE=DATE:20251118
+DTEND;VALUE=DATE:20251119
+END:VEVENT
+BEGIN:VEVENT
+UID:release:kodansha_international:you_cant_bluff_the_sharp_eyed_sister:pap
+ erback:vol_002@anigramsproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:You Can't Bluff the Sharp-Eyed Sister — Vol. 2 (paperback)
+DESCRIPTION:Series: You Can't Bluff the Sharp-Eyed Sister\nVolume: 2\nTitle
+ : You Can't Bluff the Sharp-Eyed Sister\, Volume 2\nPublisher: kodansha_int
+ ernational\nFormat: paperback\nURL: https://kodansha.us/product/you-cant-bl
+ uff-the-sharp-eyed-sister-2
+URL:https://kodansha.us/product/you-cant-bluff-the-sharp-eyed-sister-2
+DTSTART;VALUE=DATE:20251223
+DTEND;VALUE=DATE:20251224
+END:VEVENT
+BEGIN:VEVENT
+UID:release:kodansha_international:pass_the_monster_meat_milady:paperback:v
+ ol_009@anigramsproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Pass the Monster Meat\, Milady! — Vol. 9 (paperback)
+DESCRIPTION:Series: Pass the Monster Meat\, Milady!\nVolume: 9\nTitle: Pass
+  the Monster Meat\, Milady!\, Volume 9\nPublisher: kodansha_international\n
+ Format: paperback\nURL: https://kodansha.us/product/pass-the-monster-meat-m
+ ilady-9
+URL:https://kodansha.us/product/pass-the-monster-meat-milady-9
+DTSTART;VALUE=DATE:20251230
+DTEND;VALUE=DATE:20251231
+END:VEVENT
+BEGIN:VEVENT
+UID:release:yen_press:kill_the_villainess:paperback:vol_005@anigramsproduct
+ ions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Kill the Villainess — Vol. 5 (paperback)
+DESCRIPTION:Series: Kill the Villainess\nVolume: 5\nTitle: Kill the Villain
+ ess\, Vol. 5\nPublisher: yen_press\nFormat: paperback\nURL: https://yenpres
+ s.com/titles/9798400904844-kill-the-villainess-vol-5
+URL:https://yenpress.com/titles/9798400904844-kill-the-villainess-vol-5
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260218
+END:VEVENT
+BEGIN:VEVENT
+UID:release:kodansha_international:you_cant_bluff_the_sharp_eyed_sister:pap
+ erback:vol_003@anigramsproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:You Can't Bluff the Sharp-Eyed Sister — Vol. 3 (paperback)
+DESCRIPTION:Series: You Can't Bluff the Sharp-Eyed Sister\nVolume: 3\nTitle
+ : You Can't Bluff the Sharp-Eyed Sister\, Volume 3\nPublisher: kodansha_int
+ ernational\nFormat: paperback\nURL: https://kodansha.us/product/you-cant-bl
+ uff-the-sharp-eyed-sister-3
+URL:https://kodansha.us/product/you-cant-bluff-the-sharp-eyed-sister-3
+DTSTART;VALUE=DATE:20260224
+DTEND;VALUE=DATE:20260225
+END:VEVENT
+BEGIN:VEVENT
+UID:release:square_enix:the_apothecary_diaries:paperback:vol_015@anigramspr
+ oductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:The Apothecary Diaries — Vol. 15 (paperback)
+DESCRIPTION:Series: The Apothecary Diaries\nVolume: 15\nTitle: The Apotheca
+ ry Diaries (Manga)\, Volume 15\nPublisher: square_enix\nFormat: paperback\n
+ URL: https://squareenixmangaandbooks.square-enix-games.com/en-us/product/97
+ 81646094561
+URL:https://squareenixmangaandbooks.square-enix-games.com/en-us/product/978
+ 1646094561
+DTSTART;VALUE=DATE:20260317
+DTEND;VALUE=DATE:20260318
+END:VEVENT
+BEGIN:VEVENT
+UID:release:seven_seas_entertainment:magic_artisan_dahlia_wilts_no_more:pap
+ erback:vol_008@anigramsproductions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Magic Artisan Dahlia Wilts No More — Vol. 8 (paperback)
+DESCRIPTION:Series: Magic Artisan Dahlia Wilts No More\nVolume: 8\nTitle: M
+ agic Artisan Dahlia Wilts No More (Manga) Vol. 8\nPublisher: seven_seas_ent
+ ertainment\nFormat: paperback\nURL: https://sevenseasentertainment.com/book
+ s/magic-artisan-dahlia-wilts-no-more-manga-vol-8/
+URL:https://sevenseasentertainment.com/books/magic-artisan-dahlia-wilts-no-
+ more-manga-vol-8/
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260401
+END:VEVENT
+BEGIN:VEVENT
+UID:release:yen_press:kill_the_villainess:paperback:vol_006@anigramsproduct
+ ions.com
+DTSTAMP:20260303T092345Z
+SUMMARY:Kill the Villainess — Vol. 6 (paperback)
+DESCRIPTION:Series: Kill the Villainess\nVolume: 6\nTitle: Kill the Villain
+ ess\, Vol. 6\nPublisher: yen_press\nFormat: paperback\nURL: https://yenpres
+ s.com/titles/9798400904868-kill-the-villainess-vol-6
+URL:https://yenpress.com/titles/9798400904868-kill-the-villainess-vol-6
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260520
+END:VEVENT
+END:VCALENDAR
