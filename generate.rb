@@ -18,6 +18,8 @@ series_list = []
 
 puts "Getting series data..."
 config_data['series'].each do |series|
+  next if series['status'].to_s.downcase == 'complete'
+
   case series['publisher']
   when 'yen_press'
     parser = YenPressParser

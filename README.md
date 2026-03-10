@@ -6,11 +6,23 @@ The goal of this project is to generate a calendar of book releases that can be 
 
 Configure which book series to track in `config.yaml`.
 
+Config format:
+```yaml
+series:
+  - title: "Book Title"
+    type: manga, manwha, ...
+    format: paperback, ebook, ...
+    author: "Author Name"
+    publisher: yen_press
+    series_url: "https://"
+    status: ongoing or complete
+```
+
 Current supported publishers are:
-* Yen Press
-* Seven Seas Entertainment
-* Square Enix
-* Kodansha International
+* Yen Press (`yen_press`)
+* Seven Seas Entertainment (`seven_seas_entertainment`)
+* Square Enix (`square_enix`)
+* Kodansha International (`kodansha_international`)
 
 Set environment variables:
 ```bash

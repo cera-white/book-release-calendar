@@ -3,14 +3,6 @@ require "date"
 require_relative './json_parser'
 
 class KodanshaParser < JsonParser
-  # def parse
-  #   series_doc = super
-
-  #   File.write('series_html_content.html', series_doc)
-
-  #   series_doc
-  # end
-
   def parse
     data = fetch_json(@uri)
 
