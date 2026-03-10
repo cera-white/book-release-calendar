@@ -23,8 +23,6 @@ Current supported publishers are:
 * Seven Seas Entertainment (`seven_seas_entertainment`)
 * Square Enix (`square_enix`)
 * Kodansha International (`kodansha_international`)
-
-Publishers that need parsers:
 * Viz Media, LLC (`viz_media`)
 * Random House Worlds (`random_house_worlds`)
 

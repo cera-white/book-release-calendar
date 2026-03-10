@@ -3,21 +3,6 @@ require "json"
 require "date"
 require_relative './html_parser'
 
-# class SquareEnixParser < HtmlParser
-#   def initialize(series)
-#     @series = series
-#     @uri = URI(series['series_url'])
-#   end
-
-#   def parse
-#     series_doc = super
-
-#     File.write('series_html_content.html', series_doc)
-
-#     series_doc
-#   end
-# end
-
 class SquareEnixParser < HtmlParser
   def parse
     series_doc = super

@@ -7,6 +7,8 @@ require_relative './lib/parsers/yen_press_parser'
 require_relative './lib/parsers/seven_seas_parser'
 require_relative './lib/parsers/square_enix_parser'
 require_relative './lib/parsers/kodansha_parser'
+require_relative './lib/parsers/viz_parser'
+require_relative './lib/parsers/random_house_parser'
 require_relative './lib/ics_feed_builder'
 
 file_path = 'config.yaml'
@@ -29,6 +31,10 @@ config_data['series'].each do |series|
     parser = SquareEnixParser
   when 'kodansha_international'
     parser = KodanshaParser
+  when 'viz_media'
+    parser = VizParser
+  when 'random_house_worlds'
+    parser = RandomHouseParser
   else
     parser = nil
   end

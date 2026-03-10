@@ -8,14 +8,23 @@ class HtmlParser
     @uri = URI(series["series_url"])
   end
 
-  def fetch_doc(uri = @uri)
+  def fetch_doc(uri = @uri, retries = 3)
+    sleep(rand(0.5..1.5))
+
     req = Net::HTTP::Get.new(uri)
 
     resp = Net::HTTP.start(uri.host, uri.port, use_ssl: uri.scheme == "https", read_timeout: 15) do |http|
       http.request(req)
     end
 
+    if resp.code.to_i == 429 && retries > 0
+      wait = (resp["Retry-After"] || rand(5..10)).to_i
+      sleep(wait)
+      return fetch_doc(uri, retries - 1)
+    end
+
     raise "HTTP #{resp.code}, Response: #{resp.inspect}" unless resp.is_a?(Net::HTTPSuccess)
+
     Nokogiri::HTML(resp.body)
   end
 
