@@ -7,6 +7,13 @@ series:
     series_url: "https://sevenseasentertainment.com/series/7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy-manga/"
     status: ongoing
   # A
+  - title: "Accomplishments of the Duke's Daughter"
+    type: manga
+    format: paperback
+    author: "Reia"
+    publisher: seven_seas_entertainment
+    series_url: "https://sevenseasentertainment.com/series/accomplishments-of-the-dukes-daughter/"
+    status: ongoing
   - title: "The Apothecary Diaries"
     type: manga
     format: paperback
@@ -14,14 +21,45 @@ series:
     publisher: square_enix
     series_url: "https://squareenixmangaandbooks.square-enix-games.com/en-us/series/the-apothecary-diaries"
     status: ongoing
+  # B
+  - title: "Beware the Villainess!"
+    type: manhwa
+    format: paperback
+    author: "Blue Blue Canna (Artist), Berry (Adapted by)"
+    publisher: yen_press
+    series_url: "https://yenpress.com/series/beware-the-villainess"
+    status: ongoing
+  # C
+  # D
+  # E
+  # F
+  # G
+  # H
+  # I
+  # J
   # K
   - title: "Kill the Villainess"
-    type: manwha
+    type: manhwa
     format: paperback
     author: "Haegi (Artist)"
     publisher: yen_press
     series_url: "https://yenpress.com/series/kill-the-villainess"
     status: ongoing
+  - title: "The Knight & Her Emperor"
+    type: manhwa
+    format: paperback
+    author: "G.M., Winter (Illustrator), Heyum (Adapted by)"
+    publisher: random_house_worlds
+    series_url: "https://www.penguinrandomhouse.com/series/KNH/the-knight-and-her-emperor/"
+    status: ongoing
+  # L
+  - title: "Love of Kill"
+    type: manga
+    format: paperback
+    author: "Fe, Eleanor Summers (Translator)"
+    publisher: yen_press
+    series_url: "https://yenpress.com/series/love-of-kill"
+    status: complete
   # M
   - title: "Magic Artisan Dahlia Wilts No More"
     type: manga
@@ -30,6 +68,8 @@ series:
     publisher: seven_seas_entertainment
     series_url: "https://sevenseasentertainment.com/series/magic-artisan-dahlia-wilts-no-more-manga/"
     status: ongoing
+  # N
+  # O
   # P
   - title: "Pass the Monster Meat, Milady!"
     type: manga
@@ -39,9 +79,56 @@ series:
     series_url: "https://kodansha.us/series/pass-the-monster-meat-milady"
     api_url: "https://api.kodansha.us/product/forSeries/765?platform=web&api-version=1.4"
     status: ongoing
+  # Q
+  # R
+  # S
+  - title: "The Savior's Book Cafe Story in Another World"
+    type: manga
+    format: paperback
+    author: "Kyouka Izumi, Oumiya, Reiko Sakurada (Illustrator)"
+    publisher: seven_seas_entertainment
+    series_url: "https://sevenseasentertainment.com/series/the-saviors-book-cafe-story-in-another-world-manga/"
+    status: complete
+  - title: "Semantic Error"
+    type: manhwa
+    format: paperback
+    author: "Angy (Artist)"
+    publisher: yen_press
+    series_url: "https://yenpress.com/series/semantic-error-comic"
+    status: ongoing
+  - title: "Snow White with the Red Hair"
+    type: manga
+    format: paperback
+    author: "Sorata Akiduki"
+    publisher: viz_media
+    series_url: "https://www.viz.com/manga-books/snow-white-with-the-red-hair/section/47627/more"
+    status: ongoing
+  - title: "Spy x Family"
+    type: manga
+    format: paperback
+    author: "Tatsuya Endo"
+    publisher: viz_media
+    series_url: "https://www.viz.com/manga-books/spy-x-family/section/114242/more"
+    status: ongoing
+  - title: "Sugar Apple Fairy Tale"
+    type: manga
+    format: paperback
+    author: "Aki, YozoranoUdon (Artist), Miri Mikawa, Nicole Wilder (Translator)"
+    publisher: yen_press
+    series_url: "https://yenpress.com/series/sugar-apple-fairy-tale-manga"
+    status: complete
+  # T
+  # U
+  - title: "Unholy Blood"
+    type: manhwa
+    format: paperback
+    author: "Lina Lim"
+    publisher: yen_press
+    series_url: "https://yenpress.com/series/unholy-blood"
+    status: complete
   # V
   - title: "Villains Are Destined to Die"
-    type: manwha
+    type: manhwa
     format: paperback
     author: "SUOL (Artist), David Odell (Translator)"
     publisher: yen_press
@@ -49,12 +136,13 @@ series:
     status: ongoing
   # W
   - title: "Why Raeliana Ended Up at the Duke's Mansion"
-    type: manwha
+    type: manhwa
     format: paperback
     author: "Whale (Artist), David Odell (Translator)"
     publisher: yen_press
     series_url: "https://yenpress.com/series/why-raeliana-ended-up-at-the-duke-s-mansion"
     status: complete
+  # X
   # Y
   - title: "Yakuza Fiancé: Raise wa Tanin ga Ii"
     type: manga
@@ -71,8 +159,11 @@ series:
     series_url: "https://kodansha.us/series/you-cant-bluff-the-sharp-eyed-sister"
     api_url: "https://api.kodansha.us/product/forSeries/879?platform=web&api-version=1.4"
     status: ongoing
+  # Z
 sources:
   yen_press: "https://yenpress.com/calendar"
   seven_seas_entertainment: "https://sevenseasentertainment.com/release-dates/"
   square_enix: "https://squareenixmangaandbooks.square-enix-games.com/en-us/release-calendar"
   kodansha_international: "https://kodansha.us/calendar/"
+  viz_media: "https://www.viz.com/calendar"
+  random_house_worlds: "https://randomhousebooks.com/books/"
