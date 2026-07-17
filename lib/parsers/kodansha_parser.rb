@@ -1,9 +1,8 @@
 require "json"
 require "date"
-require "net/http"
-require_relative './json_parser'
+require_relative './html_parser'
 
-class KodanshaParser < JsonParser
+class KodanshaParser < HtmlParser
   SCHEMA_FORMATS = {
     "paperback" => "Paperback",
     "hardcover" => "Hardcover",
@@ -12,19 +11,24 @@ class KodanshaParser < JsonParser
     "digital" => "EBook"
   }.freeze
 
+  def initialize(series)
+    super
+    # Kodansha series pages 301 without a trailing slash.
+    @uri.path = "#{@uri.path}/" unless @uri.path.end_with?("/")
+  end
+
   def parse
-    data = fetch_json(@uri)
+    series_doc = super
     format = @series["format"].to_s.downcase
+    schema_format = SCHEMA_FORMATS[format]
 
-    volumes = data.map do |item|
-      readable_url = item["readableUrl"]
-      readable = item["readable"] || {}
-
+    volumes = extract_volume_links(series_doc).map do |v|
+      volume_doc = fetch_doc(URI(v[:url]))
       {
-        volume: item["volumeNumber"],
-        title: item["name"],
-        release_date: release_date_for_format(readable_url, readable, format),
-        url: build_public_volume_url(readable_url)
+        volume: v[:volume],
+        title: v[:title],
+        release_date: release_date_from_volume_page(volume_doc, schema_format),
+        url: v[:url]
       }
     end
 
@@ -36,67 +40,77 @@ class KodanshaParser < JsonParser
 
   private
 
-  def release_date_for_format(readable_url, readable, format)
-    schema_format = SCHEMA_FORMATS[format]
-    if schema_format && readable_url && !readable_url.to_s.strip.empty?
-      date = release_date_from_product_page(readable_url, schema_format)
-      return date if date
-    end
+  def extract_volume_links(doc)
+    volumes = volumes_from_json_ld(doc)
+    return volumes unless volumes.empty?
 
-    fallback_release_date(readable, format)
+    volumes_from_anchors(doc)
   end
 
-  def fallback_release_date(readable, format)
-    case format
-    when "ebook", "digital"
-      parse_date_or_nil(readable["digitalReleaseDate"] || readable["releaseDate"])
-    when "paperback", "hardcover", "print"
-      parse_date_or_nil(readable["printReleaseDate"] || readable["releaseDate"])
-    else
-      parse_date_or_nil(readable["releaseDate"])
+  def volumes_from_json_ld(doc)
+    doc.css('script[type="application/ld+json"]').each do |script|
+      data = JSON.parse(script.text)
+      next unless data.is_a?(Hash) && data["@type"] == "ComicSeries"
+
+      return Array(data["hasPart"]).filter_map do |part|
+        next unless part.is_a?(Hash)
+
+        url = part["url"].to_s.strip
+        title = part["name"].to_s.strip
+        next if url.empty? || title.empty?
+
+        {
+          volume: part["position"] || extract_volume_number(title),
+          title: title,
+          url: url
+        }
+      end
+    rescue JSON::ParserError
+      next
+    end
+
+    []
+  end
+
+  def volumes_from_anchors(doc)
+    seen = {}
+    doc.css('a[href*="/volume-"]').filter_map do |a|
+      href = a["href"].to_s.strip
+      next if href.empty? || href.include?("#")
+
+      url = href.start_with?("http") ? href : URI.join(@uri, href).to_s
+      next if seen[url]
+
+      title = a.text.gsub(/\s+/, " ").strip
+      title = File.basename(URI(url).path) if title.empty?
+      seen[url] = true
+
+      {
+        volume: extract_volume_number(title) || extract_volume_number(url),
+        title: title,
+        url: url
+      }
     end
   end
 
-  def release_date_from_product_page(readable_url, schema_format)
-    html = fetch_product_page(readable_url)
-    return nil if html.nil? || html.empty?
+  def release_date_from_volume_page(doc, schema_format)
+    return nil if schema_format.nil?
 
-    html.scan(%r{<script type="application/ld\+json"[^>]*>(.*?)</script>}m) do |match|
-      data = JSON.parse(match[0])
-      next unless data["@type"] == "Book"
+    doc.css('script[type="application/ld+json"]').each do |script|
+      data = JSON.parse(script.text)
+      next unless data.is_a?(Hash) && data["@type"] == "Book"
 
       Array(data["workExample"]).each do |example|
+        next unless example.is_a?(Hash)
+
         book_format = example["bookFormat"].to_s.split("/").last
         next unless book_format == schema_format
 
         date = parse_date_or_nil(example["datePublished"])
         return date if date
       end
-    end
-
-    nil
-  rescue JSON::ParserError
-    nil
-  end
-
-  def fetch_product_page(readable_url)
-    uri = URI("https://kodansha.us/product/#{readable_url}/")
-    5.times do
-      req = Net::HTTP::Get.new(uri)
-      req["User-Agent"] = "Mozilla/5.0 (compatible; BookReleaseCalendar/1.0)"
-
-      resp = Net::HTTP.start(uri.host, uri.port, use_ssl: true, read_timeout: 15) do |http|
-        http.request(req)
-      end
-
-      return resp.body if resp.is_a?(Net::HTTPSuccess)
-
-      if resp.is_a?(Net::HTTPRedirection)
-        uri = URI(resp["location"])
-        next
-      end
-
-      break
+    rescue JSON::ParserError
+      next
     end
 
     nil
@@ -104,18 +118,12 @@ class KodanshaParser < JsonParser
 
   def parse_date_or_nil(raw)
     return nil if raw.nil?
-    s = raw.to_s.strip
-    return nil if s.empty? || s.start_with?("0001-01-01") # shows up in some nested chapter readables
 
-    # We only care about the date, not the time
+    s = raw.to_s.strip
+    return nil if s.empty? || s.start_with?("0001-01-01")
+
     Date.parse(s)
   rescue ArgumentError
     nil
-  end
-
-  def build_public_volume_url(readable_url)
-    return nil if readable_url.nil? || readable_url.to_s.strip.empty?
-
-    "https://kodansha.us/product/#{readable_url}"
   end
 end
